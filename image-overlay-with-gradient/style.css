@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Codystar&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.image {
+    width: 100%;
+    min-height: 100vh;
+    font-family: 'Codystar', cursive;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: white;
+    letter-spacing: 5px;
+    font-size: clamp(1.5rem, 2.5vw, 4rem);
+    background-image: linear-gradient(45deg, rgba(23, 183, 127, 0.859), rgba(255, 0, 0, 0.4), rgba(255, 166, 0, 0.5), rgba(0, 34, 255, 0.5)), url(images/nathan-dumlao-6VhPY27jdps-unsplash.jpg);
+    background-position: center;
+    background-size: cover;
+}
