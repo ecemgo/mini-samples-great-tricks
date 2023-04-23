@@ -3,6 +3,7 @@
 ### Link
 
 - [Live Site URL](https://sticky-fixed-position.netlify.app/)
+- [CodePen](https://codepen.io/ecemgo/pen/GRYZdaa)
 
 ### Screenshot
 
@@ -12,7 +13,6 @@
 
 ### Useful Resources
 
-- [CodePen](https://codepen.io/ecemgo/pen/GRYZdaa)
 - [Youtube - Kevin Powell](https://www.youtube.com/watch?v=86nTToBm2uQ&list=PLu1KCubHpvAqZZpjfkknNbeEszcWKqsfQ&index=23)
 
 ### Contact Me
