@@ -6,7 +6,7 @@
 
 ### Screenshot
 
-![](screenshot.jpg)
+![](screenshot-v1.jpg)
 
 ### Useful Resources
 
