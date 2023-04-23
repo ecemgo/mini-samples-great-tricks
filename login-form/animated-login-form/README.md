@@ -3,7 +3,7 @@
 ### Link
 
 - [Live Site URL](https://ecemgo-animated-login-form.netlify.app/)
-- [CodePen](https://codepen.io/ecemgo/pen/PoywNzQ)
+- [CodePen](https://codepen.io/ecemgo/pen/Baqpbez)
 
 ### Screenshot
 
