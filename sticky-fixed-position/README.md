@@ -1,4 +1,4 @@
-## <img src="https://user-images.githubusercontent.com/13468728/233831804-0f5c7ee5-d654-4c13-9c77-a5bd6dc4fe74.jpg" title="great tricks" alt="great tricks" width="50" height="50"/> Checkbox Design
+## <img src="https://user-images.githubusercontent.com/13468728/233831804-0f5c7ee5-d654-4c13-9c77-a5bd6dc4fe74.jpg" title="great tricks" alt="great tricks" width="50" height="50"/> Sticky & Fixed Position
 
 ### Link
 
@@ -6,7 +6,9 @@
 
 ### Screenshot
 
-![](screenshot-v1.jpg)
+<div align="left">
+<img src="https://user-images.githubusercontent.com/13468728/233833923-c8bcf02d-7f7b-442b-9804-33f6a526a771.png" title="Sticky Fixed Position" alt="Sticky Fixed Position" width="600" height="400"/>
+</div>
 
 ### Useful Resources
 
