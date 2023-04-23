@@ -25,4 +25,5 @@ This repository includes some great tricks with mini samples.
 | 04  | [Image Overlay with Gradient](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/image-overlay-with-gradient)   |
 | 05  | [Switch for Dark/Light Mode](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/dark-light-switch)   |
 | 06  | [Card Hover Effect](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/card-hover-effect)   |
+| 07  | [Animated Login Form](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/login-form)   |
 
