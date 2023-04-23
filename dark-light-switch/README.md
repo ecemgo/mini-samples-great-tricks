@@ -19,5 +19,5 @@ This repository includes some samples of the switch for dark/light mode.
 
 |  #  | Samples                                                                                              | 
 | :-: | ---------------------------------------------------------------------------------------------------- | 
-| 01  | [Dark/Light Mode Switch (css & js)](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/dark-light-switch/css-js)   |
-| 02  | [Dark/Light Mode Switch (pure css)](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/dark-light-switch/pure-css)   |
+| 01  | [Switch for Dark/Light Mode (css & js)](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/dark-light-switch/css-js)   |
+| 02  | [Switch for Dark/Light Mode (pure css)](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/dark-light-switch/pure-css)   |
