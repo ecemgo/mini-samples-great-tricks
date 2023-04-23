@@ -23,4 +23,5 @@ This repository includes some great tricks with mini samples.
 | 02  | [Responsive Navbar](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/navbar)            |
 | 03  | [Sticky Fixed Position](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/sticky-fixed-position)      |
 | 04  | [Image Overlay with Gradient](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/image-overlay-with-gradient)   |
+| 05  | [Switch for Dark/Light Mode](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/dark-light-switch)   |
 
