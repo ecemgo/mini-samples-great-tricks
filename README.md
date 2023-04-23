@@ -21,3 +21,4 @@ This repository includes some great tricks with mini samples.
 | :-: | ---------------------------------------------------------------------------------------------------- | 
 | 01  | [Checkbox Design](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/checkbox-design)     |
 | 02  | [Responsive Navbar](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/navbar)            |
+| 03  | [Sticky Fixed Position](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/sticky-fixed-position)            |
