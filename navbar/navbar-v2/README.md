@@ -7,7 +7,7 @@
 ### Screenshot
 
 <div align="left">
-<img src="https://user-images.githubusercontent.com/13468728/233833391-e3e97987-c76c-416f-b667-b2a996f88919.png" title="navbar" alt="nabvar" width="600" height="80"/>
+<img src="https://user-images.githubusercontent.com/13468728/233833391-e3e97987-c76c-416f-b667-b2a996f88919.png" title="navbar" alt="navbar" width="600" height="80"/>
 </div>
 
 ### Useful Resources
