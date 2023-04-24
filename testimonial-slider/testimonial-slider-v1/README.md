@@ -2,13 +2,13 @@
 
 ### Link
 
-- [Live Site URL](https://testimonial-slider-v1.netlify.app/)
+- [Live Site URL](https://testimonial-slider-v1.netlify.app/) - GitHub version
 - [CodePen](https://codepen.io/ecemgo/pen/WNappPz) - the another version
 
 ### Screenshot
 
 <div align="left">
-<h3>Live Site version</h3>
+<h3>GitHub version</h3>
 <img src="https://user-images.githubusercontent.com/13468728/234051149-6ecd6c94-68c2-4d29-8238-4bf4d8e67d11.jpeg" title="testimonial slider" alt="testimonial slider" width="600" height="350"/>
 <h3>CodePen version</h3>
 <img src="https://user-images.githubusercontent.com/13468728/234039133-f2413eb7-adb6-44b7-a1e0-9b20dee130a3.jpeg" title="testimonial slider" alt="testimonial slider" width="600" height="350"/>
