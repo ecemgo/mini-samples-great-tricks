@@ -1,6 +1,6 @@
-## <img src="https://user-images.githubusercontent.com/13468728/233831804-0f5c7ee5-d654-4c13-9c77-a5bd6dc4fe74.jpg" title="great tricks" alt="great tricks" width="50" height="50"/> Responsive Navbar
+## <img src="https://user-images.githubusercontent.com/13468728/233831804-0f5c7ee5-d654-4c13-9c77-a5bd6dc4fe74.jpg" title="great tricks" alt="great tricks" width="50" height="50"/> Testimonial Slider
 
-This repository includes some samples of the navbar.
+This repository includes some samples of the testimonial slider.
 
 #### Solutions with these tools:
 
@@ -19,5 +19,5 @@ This repository includes some samples of the navbar.
 
 |  #  | Samples                                                                                              | 
 | :-: | ---------------------------------------------------------------------------------------------------- | 
-| 01  | [Responsive Navbar v1](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/navbar/navbar-v1)   |
-| 02  | [Responsive Navbar v2](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/navbar/navbar-v2)   |
+| 01  | [Responsive Testimonial Slider](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/testimonial-slider/responsive-testimonial-slider)   |
+| 02  | [Testimonial Slider v1](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/testimonial-slider/testimonial-slider-v1)   |

@@ -1,8 +1,9 @@
 ## <img src="https://user-images.githubusercontent.com/13468728/233831804-0f5c7ee5-d654-4c13-9c77-a5bd6dc4fe74.jpg" title="great tricks" alt="great tricks" width="50" height="50"/> Dark/Light Mode Switch (css & js)
 
-### Link
+### Links
 
 - [Live Site URL](https://dark-light-mode-v1.netlify.app/)
+- [Codepen](https://codepen.io/ecemgo/pen/abRpOXL)
 
 ### Screenshot
 

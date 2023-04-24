@@ -3,6 +3,7 @@
 ### Link
 
 - [Live Site URL](https://ecemgo-navbar-v2.netlify.app/)
+- [CodePen](https://codepen.io/ecemgo/pen/RweGxqM)
 
 ### Screenshot
 
