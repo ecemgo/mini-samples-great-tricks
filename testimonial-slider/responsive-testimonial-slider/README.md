@@ -1,12 +1,13 @@
-# Responsive Testimonial Slider
+## <img src="https://user-images.githubusercontent.com/13468728/233831804-0f5c7ee5-d654-4c13-9c77-a5bd6dc4fe74.jpg" title="great tricks" alt="great tricks" width="50" height="50"/> Responsive Testimonial Slider
 
-### Link
+### Links
 
 - [Live Site URL](https://ecemgo-responsive-testimonial-slider.netlify.app/)
+- [CodePen](https://codepen.io/ecemgo/pen/NWOKzmq)
 
 ### Screenshot
 
-<div align="center">
+<div align="left">
 <h3>Desktop Layout</h3>
 <img src="https://user-images.githubusercontent.com/13468728/229925745-5382ca63-5b7c-4134-8e56-e6465731926a.jpeg" title="Testimonial Slider" alt="Testimonial Slider" width="700" height="450"/>
 <h3>Tablet Layout</h3>
@@ -26,3 +27,4 @@
 - Website - [ecemgo.com](https://www.ecemgo.com/)
 - Frontend Mentor - [@ecemgo](https://www.frontendmentor.io/profile/ecemgo)
 - Twitter - [@ecemgo](https://twitter.com/ecemgo)
+- CodePen - [@ecemgo](https://codepen.io/ecemgo)
