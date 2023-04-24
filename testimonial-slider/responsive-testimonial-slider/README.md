@@ -18,9 +18,11 @@
 
 ### Useful resources
 
+- [Youtube](https://www.youtube.com/watch?v=iIwALoXqJ5c&t=2s)
 - [Eggradients](https://www.eggradients.com/category/pastel-gradient) - It is used for the CSS Gradient.
 - [Swiper](https://swiperjs.com/get-started) - It is used for the slides.
 - [Unsplash](https://unsplash.com/) - It is used for the images.
+
 
 ## Author
 
