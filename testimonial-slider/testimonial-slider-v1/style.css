@@ -1,5 +1,3 @@
-@import url("https://fonts.googleapis.com/css2?family=Noto+Serif&family=Roboto:wght@300;500&display=swap");
-
 * {
   box-sizing: border-box;
   margin: 0;
@@ -11,20 +9,17 @@ html {
 }
 
 body {
-  font-family: "Roboto", sans-serif;
+  font-family: 'Sen', sans-serif;
   min-height: 100vh;
   position: relative;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-
-  /* background: #ff676d; */
   background-image: url(images/screenshot.jpg);
   background-repeat: no-repeat;
-  background-position: center;
   background-size: cover;
-  backdrop-filter: blur(55px);
+  backdrop-filter: blur(50px);
 }
 
 main {
