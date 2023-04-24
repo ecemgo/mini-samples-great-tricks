@@ -8,7 +8,10 @@
 ### Screenshot
 
 <div align="left">
-<img src="https://user-images.githubusercontent.com/13468728/234039133-f2413eb7-adb6-44b7-a1e0-9b20dee130a3.jpeg" title="card hover effect" alt="card hover effect" width="600" height="350"/>
+<h3>Live Site version</h3>
+<img src="https://user-images.githubusercontent.com/13468728/234051149-6ecd6c94-68c2-4d29-8238-4bf4d8e67d11.jpeg" title="testimonial slider" alt="testimonial slider" width="600" height="350"/>
+<h3>CodePen version</h3>
+<img src="https://user-images.githubusercontent.com/13468728/234039133-f2413eb7-adb6-44b7-a1e0-9b20dee130a3.jpeg" title="testimonial slider" alt="testimonial slider" width="600" height="350"/>
 </div>
 
 ### Useful Resources
