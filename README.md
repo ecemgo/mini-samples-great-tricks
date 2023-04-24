@@ -26,4 +26,5 @@ This repository includes some great tricks with mini samples.
 | 05  | [Switch for Dark/Light Mode](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/dark-light-switch)   |
 | 06  | [Card Hover Effect](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/card-hover-effect)   |
 | 07  | [Animated Login Form](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/login-form)   |
+| 08  | [Testimonial Slider](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/testimonial-slider)   |
 
