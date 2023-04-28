@@ -3,7 +3,7 @@
 ### Link
 
 - [Live Site URL](https://harry-potter-characters-cards.netlify.app/)
-- [CodePen](https://codepen.io/ecemgo/pen/PoywNzQ)
+- [CodePen](https://codepen.io/ecemgo/pen/MWPoxpg)
 
 ### Screenshot
 
