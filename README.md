@@ -27,4 +27,4 @@ This repository includes some great tricks with mini samples.
 | 06  | [Card Hover Effect](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/card-hover-effect)   |
 | 07  | [Animated Login Form](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/login-form)   |
 | 08  | [Testimonial Slider](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/testimonial-slider)   |
-
+| 09  | [Expanding Cards](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/expanding-cards-harry-potter)   |
