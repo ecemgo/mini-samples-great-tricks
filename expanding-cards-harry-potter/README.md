@@ -8,7 +8,7 @@
 ### Screenshot
 
 <div align="left">
-<img src="https://user-images.githubusercontent.com/13468728/233836937-5cbd62c9-6428-4ae6-8936-a2d708635f7e.jpeg" title="expanding cards" alt="expanding cards" width="600" height="400"/>
+<img src="screenshot.jpg" title="expanding cards" alt="expanding cards" width="600" height="400"/>
 </div>
 
 ### Useful Resources
