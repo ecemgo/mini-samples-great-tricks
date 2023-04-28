@@ -8,7 +8,7 @@
 ### Screenshot
 
 <div align="left">
-<img src="screenshot.jpg" title="expanding cards" alt="expanding cards" width="600" height="400"/>
+<img src="screenshots.jpg" title="expanding cards" alt="expanding cards" width="600" height="400"/>
 </div>
 
 ### Useful Resources
