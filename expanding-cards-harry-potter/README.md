@@ -13,7 +13,8 @@
 
 ### Useful Resources
 
-- [50 Projects In 50 Days](https://www.udemy.com/course/50-projects-50-days/)
+- [50 Projects In 50 Days](https://www.udemy.com/course/50-projects-50-days/) - It is a tutorial on Udemy about HTML, CSS and Javascript.
+- [Fantasy Topics](https://fantasytopics.com/harry-potter-characters-list/) - It is used for Harry Potter characters list.
 
 ### Contact Me
 
