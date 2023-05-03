@@ -4,7 +4,6 @@ const email = document.getElementById("email");
 const password = document.getElementById("password");
 const confirmpassword = document.getElementById("confirmpassword");
 const header = document.querySelector(".header");
-const button = document.querySelector("button");
 const message = document.querySelector(".message");
 
 //! submit the form when clicking the button
