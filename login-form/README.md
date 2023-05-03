@@ -1,6 +1,6 @@
-## <img src="https://user-images.githubusercontent.com/13468728/233831804-0f5c7ee5-d654-4c13-9c77-a5bd6dc4fe74.jpg" title="great tricks" alt="great tricks" width="50" height="50"/> Animated Login Form
+## <img src="https://user-images.githubusercontent.com/13468728/233831804-0f5c7ee5-d654-4c13-9c77-a5bd6dc4fe74.jpg" title="great tricks" alt="great tricks" width="50" height="50"/> Login Form
 
-This repository includes some samples of the animated login form.
+This repository includes some samples of the login forms.
 
 #### Solutions with these tools:
 
@@ -20,3 +20,4 @@ This repository includes some samples of the animated login form.
 |  #  | Samples                                                                                              | 
 | :-: | ---------------------------------------------------------------------------------------------------- | 
 | 01  | [Animated Login Form](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/login-form/animated-login-form)   |
+| 02  | [Client-side Form Validation](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/clientside-form-validation)   |
