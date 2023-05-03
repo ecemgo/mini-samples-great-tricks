@@ -7,7 +7,7 @@
 }
 
 body {
-    background-color: #9b59b6;
+    background: linear-gradient(315deg, #8d5185 0%, #a1bafe 74%);
     font-family: 'Roboto', sans-serif;
     display: flex;
     align-items: center;
@@ -26,6 +26,7 @@ body {
 
 .header {
     background-color: #f7f7f7;
+    color: #ba4fab;
     border-radius: 1px solid #f0f0f0;
     padding: 20px 40px;
 }
@@ -46,13 +47,20 @@ body {
 }
 
 .form-control input {
-    border: 2px solid #f0f0f0;
+    border: transparent;
+    outline: 2px dotted #f0f0f0;
     border-radius: 4px;
     display: block;
     width: 100%;
     padding: 10px;
     font-size: 14px;
     font-family: inherit;
+    transition: all 0.3s ease-in;
+}
+
+input:focus {
+    border: transparent;
+    outline: 2px dotted #ba4fab;
 }
 
 .form-control.success input {
@@ -93,8 +101,8 @@ body {
 }
 
 .form button {
-    background-color: #9b59b6;
-    border: 2px solid #9b59b6;
+    background-color: #8d5185;
+    border: none;
     color: #fff;
     display: block;
     width: 100%;
@@ -102,4 +110,49 @@ body {
     font-size: 16px;
     font-family: inherit;
     border-radius: 4px;
+    cursor: pointer;
+    transition: all 0.4s linear;
+}
+
+.form button:hover {
+    background-color: #b2239f;
+}
+
+.message {
+    padding: 30px;
+    font-size: 2rem;
+    color: #b2239f;
+    text-align: center;
+    animation-name: fade-in;
+    -webkit-animation-name: fade-in;
+    animation-duration: 1.5s;
+    -webkit-animation-duration: 1.5s;
+    animation-timing-function: ease-in-out;
+    -webkit-animation-timing-function: ease-in-out;
+    animation-fill-mode: forwards;
+    -webkit-animation-fill-mode: forwards;
+    animation-direction: alternate;
+    -webkit-animation-direction: alternate;
+}
+
+.hidden {
+    display: none;
+}
+
+@keyframes fade-in {
+    from {
+        transform: rotate(0deg) scale(0) skew(0deg) translateY(30px);
+    }
+    to {
+        transform: rotate(0deg) scale(1) skew(0deg) translateY(0);
+    }
+}
+
+@-webkit-keyframes fade-in {
+    from {
+        -webkit-transform: rotate(0deg) scale(0) skew(0deg) translateY(30px);
+    }
+    to {
+        -webkit-transform: rotate(0deg) scale(1) skew(0deg) translateY(0);
+    }
 }
