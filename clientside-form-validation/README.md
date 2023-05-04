@@ -16,7 +16,7 @@
 
 ### Useful Resources
 
-- [Youtube](https://www.youtube.com/watch?v=rsd4FNGTRBw) - The reference is the channel of Florin Pop.
+- [Youtube](https://www.youtube.com/watch?v=rsd4FNGTRBw) - Florin Pop's channel is the reference.
 
 ### Contact Me
 
