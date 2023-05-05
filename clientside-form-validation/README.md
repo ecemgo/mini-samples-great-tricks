@@ -9,9 +9,9 @@
 
 <div align="left">
 <h3 align="center">Form</h3>
-<img src="https://user-images.githubusercontent.com/13468728/235894950-9bd92a69-4be1-4d5c-a700-0f69e59cee86.jpeg" title="clientside form" alt="clientside form" width="800" height="400"/>
+<img src="https://user-images.githubusercontent.com/13468728/235894950-9bd92a69-4be1-4d5c-a700-0f69e59cee86.jpeg" title="clientside form" alt="clientside form" width="800" height="500"/>
 <h3 align="center">Show Message</h3>
-<img src="https://user-images.githubusercontent.com/13468728/235894972-2e0cc462-3732-41d0-817b-f1f04e66e9a8.jpeg" title="clientside form" alt="clientside form" width="800" height="400"/>
+<img src="https://user-images.githubusercontent.com/13468728/235894972-2e0cc462-3732-41d0-817b-f1f04e66e9a8.jpeg" title="clientside form" alt="clientside form" width="800" height="500"/>
 </div>
 
 ### Useful Resources
