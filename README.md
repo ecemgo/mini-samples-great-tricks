@@ -28,3 +28,4 @@ This repository includes some great tricks with mini samples.
 | 07  | [Login Form](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/login-form)   |
 | 08  | [Testimonial Slider](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/testimonial-slider)   |
 | 09  | [Expanding Cards](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/expanding-cards-harry-potter)   |
+| 10  | [Draggable Image Slider](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/draggable-image-slider)   |
