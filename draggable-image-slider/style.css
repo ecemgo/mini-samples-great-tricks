@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif&family=Roboto:wght@300;500&display=swap');
+
+* {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: #343f4f;
+    padding: 0 35px;
+}
+
+.wrapper {
+    max-width: 1200px;
+    position: relative;
+}
+
+.wrapper i {
+    position: absolute;
+    background: #fff;
+    height: 46px;
+    width: 46px;
+    text-align: center;
+    cursor: pointer;
+    font-size: 1.2rem;
+    line-height: 46px;
+    border-radius: 50%;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.wrapper i:first-child {
+    left: -23px;
+    display: none;
+}
+
+.wrapper i:last-child {
+    right: -23px;
+}
+
+.wrapper .carousel {
+    white-space: nowrap;
+    font-size: 0;
+    overflow: hidden;
+    cursor: pointer;
+    scroll-behavior: smooth;
+}
+
+.carousel.dragging {
+    cursor: grab;
+    scroll-behavior: auto;
+}
+
+.carousel.dragging img {
+    pointer-events: none;
+}
+
+.carousel img {
+    height: 340px;
+    width: calc(100% / 3);
+    object-fit: cover;
+    margin-left: 14px;
+}
+
+.carousel img:first-child {
+    margin-left: 0;
+}
+
+@media screen and (max-width: 900px) {
+    .carousel img {
+        width: calc(100% / 2);
+    }
+}
+
+@media screen and (max-width: 550px) {
+    .carousel img {
+        width: 100%;
+    }
+}
