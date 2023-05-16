@@ -2,7 +2,8 @@
 
 ### Link
 
-- [Live Site URL](https://ecemgo-draggable-image-slider.netlify.app/)
+- [Live Site](https://ecemgo-draggable-image-slider.netlify.app/) - GitHub version
+- [CodePen](https://codepen.io/ecemgo/pen/PoydaNN) - CodePen version
 
 ### Screenshot
 
