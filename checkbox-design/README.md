@@ -2,7 +2,7 @@
 
 ### Link
 
-- [Live Site URL](https://ecemgo-checkbox-design.netlify.app/)
+- [Live Site](https://ecemgo-checkbox-design.netlify.app/)
 
 ### Screenshot
 
