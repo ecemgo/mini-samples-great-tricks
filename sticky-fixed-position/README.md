@@ -2,7 +2,7 @@
 
 ### Link
 
-- [Live Site URL](https://sticky-fixed-position.netlify.app/)
+- [Live Site](https://sticky-fixed-position.netlify.app/)
 - [CodePen](https://codepen.io/ecemgo/pen/GRYZdaa)
 
 ### Screenshot
