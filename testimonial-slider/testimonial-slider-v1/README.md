@@ -9,9 +9,9 @@
 
 <div align="left">
 <h3>GitHub version</h3>
-<img src="https://user-images.githubusercontent.com/13468728/234051149-6ecd6c94-68c2-4d29-8238-4bf4d8e67d11.jpeg" title="testimonial slider" alt="testimonial slider" width="600" height="350"/>
+<img src="https://user-images.githubusercontent.com/13468728/234051149-6ecd6c94-68c2-4d29-8238-4bf4d8e67d11.jpeg" title="testimonial slider" alt="testimonial slider" width="500" height="350"/>
 <h3>CodePen version</h3>
-<img src="https://user-images.githubusercontent.com/13468728/234039133-f2413eb7-adb6-44b7-a1e0-9b20dee130a3.jpeg" title="testimonial slider" alt="testimonial slider" width="600" height="350"/>
+<img src="https://github.com/ecemgo/frontend-mentor-challenges/assets/13468728/1b7be84d-47db-4946-afac-154a431bdab5" title="testimonial slider" alt="testimonial slider" width="500" height="350"/>
 </div>
 
 ### Useful Resources
