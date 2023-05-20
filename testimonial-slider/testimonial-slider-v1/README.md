@@ -2,7 +2,7 @@
 
 ### Link
 
-- [Live Site URL](https://testimonial-slider-v1.netlify.app/) - GitHub version
+- [Live Site](https://testimonial-slider-v1.netlify.app/) - GitHub version
 - [CodePen](https://codepen.io/ecemgo/pen/WNappPz) - CodePen version
 
 ### Screenshot
