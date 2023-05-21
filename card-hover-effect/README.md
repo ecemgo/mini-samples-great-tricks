@@ -13,7 +13,7 @@
 
 ### Useful Resources
 
-- [Youtube](https://www.youtube.com/watch?v=6-QoF1qY9Bw)
+- [Youtube](https://www.youtube.com/watch?v=6-QoF1qY9Bw) - Web Dev's channel
 
 ### Contact Me
 
