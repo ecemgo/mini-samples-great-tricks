@@ -2,7 +2,7 @@
 
 ### Links
 
-- [Live Site URL](https://ecemgo-responsive-testimonial-slider.netlify.app/)
+- [Live Site](https://ecemgo-responsive-testimonial-slider.netlify.app/)
 - [CodePen](https://codepen.io/ecemgo/pen/NWOKzmq)
 
 ### Screenshot
