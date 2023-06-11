@@ -2,7 +2,7 @@
 
 ### Link
 
-- [Live Site URL](https://clientside-form-validation.netlify.app/)
+- [Live Site](https://clientside-form-validation.netlify.app/)
 - [CodePen](https://codepen.io/ecemgo/pen/vYVWKXG)
 
 ### Screenshot
