@@ -2,7 +2,7 @@
 
 ### Link
 
-- [Live Site URL](https://ecemgo-navbar-v2.netlify.app/)
+- [Live Site](https://ecemgo-navbar-v2.netlify.app/)
 
 ### Screenshot
 
