@@ -2,7 +2,7 @@
 
 ### Links
 
-- [Live Site URL](https://dark-light-mode-v1.netlify.app/)
+- [Live Site](https://dark-light-mode-v1.netlify.app/)
 - [Codepen](https://codepen.io/ecemgo/pen/abRpOXL)
 
 ### Screenshot
