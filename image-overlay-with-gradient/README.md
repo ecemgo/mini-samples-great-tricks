@@ -2,7 +2,7 @@
 
 ### Link
 
-- [Live Site URL](https://image-overlay-with-gradient.netlify.app/)
+- [Live Site](https://image-overlay-with-gradient.netlify.app/)
 - [CodePen](https://codepen.io/ecemgo/pen/VwEKJeO)
 
 ### Screenshot
