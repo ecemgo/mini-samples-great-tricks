@@ -2,7 +2,7 @@
 
 ### Link
 
-- [Live Site URL](https://dark-light-mode-v2.netlify.app/)
+- [Live Site](https://dark-light-mode-v2.netlify.app/)
 
 ### Screenshot
 
