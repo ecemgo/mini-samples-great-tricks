@@ -2,7 +2,7 @@
 
 ### Link
 
-- [Live Site URL](https://ecemgo-card-hover-effect.netlify.app/)
+- [Live Site](https://ecemgo-card-hover-effect.netlify.app/)
 - [CodePen](https://codepen.io/ecemgo/pen/PoywNzQ)
 
 ### Screenshot
