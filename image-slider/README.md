@@ -8,7 +8,6 @@
 ### Screenshot
 
 <div align="left">
-<h3>Laptop Screen</h3>
 <img src="https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/7f7fa89f-95d2-49c2-a3fa-4dee872e8693" title="image slider" alt="draggable image slider" width="600" height="400"/>
 <img src="https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/5ce99e70-eedb-40ca-8cc6-23f6b2ce11ed" title="image slider" alt="draggable image slider" width="600" height="400"/>
 
