@@ -13,7 +13,7 @@
 
 ### Useful Resources
 
-- [Youtube](https://www.youtube.com/watch?v=86nTToBm2uQ&list=PLu1KCubHpvAqZZpjfkknNbeEszcWKqsfQ&index=23) - Kevin Powell's channel
+- [Youtube](https://www.youtube.com/watch?v=86nTToBm2uQ&list=PLu1KCubHpvAqZZpjfkknNbeEszcWKqsfQ&index=23) - Kevin Powell's channel is the reference.
 
 ### Contact Me
 
