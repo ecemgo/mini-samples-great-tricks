@@ -36,8 +36,12 @@ body {
   transition: all 0.2s ease-in-out;
 }
 
-.slider .controls > div:active {
-  transform: scale(1.05);
+.slider .controls > .up:active {
+  transform: translateY(-10px);
+}
+
+.slider .controls > .down:active {
+  transform: translateY(10px);
 }
 
 .slider .controls > .up {
@@ -45,6 +49,7 @@ body {
   right: 0px;
   background: #fff;
   color: #111;
+  border-radius: 0 5px 5px 0;
 }
 
 .slider .controls > .down {
@@ -52,6 +57,7 @@ body {
   left: 0px;
   background: linear-gradient(#0cbaba, #380036);
   color: #fff;
+  border-radius: 5px 0 0 5px;
 }
 
 .slider .wrapper {
