@@ -17,18 +17,33 @@ This repository includes some great tricks with mini samples.
 <br>
 
 
-|  #  | Samples                                                                                              | 
+|  #  | Slider                                                                                              | 
+| :-: | ---------------------------------------------------------------------------------------------------- | 
+| 01  | [Testimonial Slider](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/testimonial-slider)   |
+| 02  | [Responsive Draggable Image Slider](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/draggable-image-slider)   |
+| 03  | [Image Slider](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/image-slider)   |
+
+<br>
+
+|  #  | Navbar                                                                                              | 
+| :-: | ---------------------------------------------------------------------------------------------------- | 
+| 01  | [Responsive Glassmorphism Navbar](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/responsive-glassmorphism-navbar)   |
+| 02  | [Responsive Navbar](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/responsive-navbar)            |
+
+<br>
+
+|  #  | Login Form                                                                                              | 
+| :-: | ---------------------------------------------------------------------------------------------------- | 
+| 01  | [Animated Login Form](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/animated-login-form)   |
+| 02  | [Client-side Form Validation](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/clientside-form-validation)   |
+
+<br>
+
+|  #  | Other Samples                                                                                              | 
 | :-: | ---------------------------------------------------------------------------------------------------- | 
 | 01  | [Checkbox Design](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/checkbox-design)     |
-| 02  | [Responsive Navbar](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/responsive-navbar)            |
-| 03  | [Sticky Fixed Position](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/sticky-fixed-position)      |
-| 04  | [Image Overlay with Gradient](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/image-overlay-with-gradient)   |
-| 05  | [Switch for Dark/Light Mode](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/dark-light-switch)   |
-| 06  | [Card Hover Effect](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/card-hover-effect)   |
-| 07  | [Animated Login Form](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/animated-login-form)   |
-| 08  | [Client-side Form Validation](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/clientside-form-validation)   |
-| 09  | [Testimonial Slider](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/testimonial-slider)   |
-| 10  | [Expanding Cards](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/expanding-cards-harry-potter)   |
-| 11  | [Responsive Draggable Image Slider](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/draggable-image-slider)   |
-| 12  | [Image Slider](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/image-slider)   |
-| 13  | [Responsive Glassmorphism Navbar](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/responsive-glassmorphism-navbar)   |
+| 02  | [Sticky Fixed Position](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/sticky-fixed-position)      |
+| 03  | [Image Overlay with Gradient](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/image-overlay-with-gradient)   |
+| 04  | [Switch for Dark/Light Mode](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/dark-light-switch)   |
+| 05  | [Card Hover Effect](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/card-hover-effect)   |
+| 06  | [Expanding Cards](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/expanding-cards-harry-potter)   |
