@@ -8,9 +8,11 @@
 ### Screenshot
 
 <div align="left">
-<img src="https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/7f7fa89f-95d2-49c2-a3fa-4dee872e8693" title="image slider" alt="draggable image slider" width="600" height="400"/>
-<img src="https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/5ce99e70-eedb-40ca-8cc6-23f6b2ce11ed" title="image slider" alt="draggable image slider" width="600" height="400"/>
-
+<h3>Laptop Screen</h3>
+<img src="https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/9e987d8a-df23-4d43-82f9-63a8c42c1f00" title="draggable image slider" alt="responsive glassmorphism navbar" width="600" height="400"/>
+<h3>Mobile Screen</h3>
+<img src="https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/31d52f8e-6116-4a97-8b5a-cca2a51fdda0" title="draggable image slider" alt="responsive glassmorphism navbar" width="200" height="400"/>
+  <img src="https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/23b15c04-976c-4c16-b952-f84affc1d347" title="draggable image slider" alt="responsive glassmorphism navbar" width="200" height="400"/>
 </div>
 
 ### Useful Resources
