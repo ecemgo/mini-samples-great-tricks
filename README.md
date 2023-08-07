@@ -31,3 +31,4 @@ This repository includes some great tricks with mini samples.
 | 10  | [Expanding Cards](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/expanding-cards-harry-potter)   |
 | 11  | [Responsive Draggable Image Slider](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/draggable-image-slider)   |
 | 12  | [Image Slider](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/image-slider)   |
+| 13  | [Responsive Glassmorphism Navbar](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/responsive-glassmorphism-navbar)   |
