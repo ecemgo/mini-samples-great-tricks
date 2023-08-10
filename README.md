@@ -39,11 +39,16 @@ This repository includes some great tricks with mini samples.
 
 <br>
 
+|  #  | Cards                                                                                              | 
+| :-: | ---------------------------------------------------------------------------------------------------- | 
+| 01  | [Card Hover Effect](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/card-hover-effect)   |
+| 02  | [Expanding Cards](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/expanding-cards-harry-potter)   |
+
+<br>
+
 |  #  | Other Samples                                                                                              | 
 | :-: | ---------------------------------------------------------------------------------------------------- | 
 | 01  | [Checkbox Design](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/checkbox-design)     |
 | 02  | [Sticky Fixed Position](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/sticky-fixed-position)      |
 | 03  | [Image Overlay with Gradient](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/image-overlay-with-gradient)   |
-| 04  | [Switch for Dark/Light Mode](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/dark-light-switch)   |
-| 05  | [Card Hover Effect](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/card-hover-effect)   |
-| 06  | [Expanding Cards](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/expanding-cards-harry-potter)   |
+| 04  | [Switch for Dark/Light Mode](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/dark-light-switch)   | 
