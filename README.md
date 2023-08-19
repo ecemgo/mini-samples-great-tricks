@@ -18,7 +18,7 @@ This repository includes some great tricks with mini samples.
 
 ### Slider
 |  #  | Samples                                                                                             | 
-| :-: | ---------------------------------------------------------------------------------------------------- | 
+| :-: | :---------------------------------------------------------------------------------------------------- | 
 | 01  | [Testimonial Slider](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/testimonial-slider)   |
 | 02  | [Responsive Draggable Image Slider](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/draggable-image-slider)   |
 | 03  | [Image Slider](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/image-slider)   |
@@ -27,7 +27,7 @@ This repository includes some great tricks with mini samples.
 
 ### Navbar
 |  #  | Samples                                                                                             | 
-| :-: | ---------------------------------------------------------------------------------------------------- | 
+| :-: | :---------------------------------------------------------------------------------------------------- | 
 | 01  | [Responsive Glassmorphism Navbar](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/responsive-glassmorphism-navbar)   |
 | 02  | [Responsive Navbar](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/responsive-navbar)            |
 
@@ -35,7 +35,7 @@ This repository includes some great tricks with mini samples.
 
 ### Login Form
 |  #  | Samples                                                                                              | 
-| :-: | ---------------------------------------------------------------------------------------------------- | 
+| :-: | :---------------------------------------------------------------------------------------------------- | 
 | 01  | [Animated Login Form](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/animated-login-form)   |
 | 02  | [Client-side Form Validation](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/clientside-form-validation)   |
 
@@ -43,7 +43,7 @@ This repository includes some great tricks with mini samples.
 
 ### Cards
 |  #  | Samples                                                                                              | 
-| :-: | ---------------------------------------------------------------------------------------------------- | 
+| :-: | :---------------------------------------------------------------------------------------------------- | 
 | 01  | [Card Hover Effect](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/card-hover-effect)   |
 | 02  | [Expanding Cards](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/expanding-cards-harry-potter)   |
 
@@ -51,7 +51,7 @@ This repository includes some great tricks with mini samples.
 
 ### Others
 |  #  | Samples                                                                                              | 
-| :-: | ---------------------------------------------------------------------------------------------------- | 
+| :-: | :---------------------------------------------------------------------------------------------------- | 
 | 01  | [Checkbox Design](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/checkbox-design)     |
 | 02  | [Sticky Fixed Position](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/sticky-fixed-position)      |
 | 03  | [Image Overlay with Gradient](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/image-overlay-with-gradient)   |
