@@ -18,8 +18,11 @@
 
 ### Useful Resources
 
-- [Youtube](https://www.youtube.com/watch?v=yE9DLIoDwCg) - Codehal's channel
-- [Youtube](https://www.youtube.com/watch?v=znqUwx0b0HI&t=604s) - GreatStack's channel
+- [Youtube](https://www.youtube.com/watch?v=yE9DLIoDwCg) - reference
+- [Youtube](https://www.youtube.com/watch?v=znqUwx0b0HI&t=604s) - reference
+- [Pexels](https://www.pexels.com/) - It's used for the video
+- [Boxicons](https://boxicons.com/) - It's used for the icons
+- [Icons8](https://icons8.com/icons/) - It's used for the logo
 
 ### Contact Me
 
