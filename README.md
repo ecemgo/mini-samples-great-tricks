@@ -53,7 +53,6 @@ This repository includes some great tricks with mini samples.
 ### Others
 |  #  | Samples                                                                                              | 
 | :-: | :---------------------------------------------------------------------------------------------------- | 
-| 01  | [Checkbox Design](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/checkbox-design)     |
-| 02  | [Sticky Fixed Position](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/sticky-fixed-position)      |
-| 03  | [Image Overlay with Gradient](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/image-overlay-with-gradient)   |
-| 04  | [Switch for Dark/Light Mode](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/dark-light-switch)   | 
+| 01  | [Sticky Fixed Position](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/sticky-fixed-position)      |
+| 02  | [Image Overlay with Gradient](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/image-overlay-with-gradient)   |
+| 03  | [Switch for Dark/Light Mode](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/dark-light-switch)   | 
