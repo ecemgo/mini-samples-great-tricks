@@ -29,8 +29,7 @@ This repository includes some great tricks with mini samples.
 |  #  | Samples                                                                                             | 
 | :-: | :---------------------------------------------------------------------------------------------------- | 
 | 01  | [Responsive Glassmorphism Navbar](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/responsive-glassmorphism-navbar)   |
-| 02  | [Responsive Navbar](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/responsive-navbar)            |
-| 03  | [Responsive Navbar & Background Video](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/responsive-navbar-background-video)            |
+| 02  | [Responsive Navbar & Background Video](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/responsive-navbar-background-video)            |
 
 <br>
 
