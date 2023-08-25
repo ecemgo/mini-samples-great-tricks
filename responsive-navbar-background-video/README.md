@@ -9,11 +9,11 @@
 
 <div align="left">
 <h3>Laptop Screen</h3>
-<img src="https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/5760869d-1b4a-4173-a25a-733acc0caa00" title="responsive navbar" alt="responsive navbar" width="600" height="400"/>
+<img src="https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/a42decdd-d661-4bb8-bce0-77723c85e76b" title="responsive navbar" alt="responsive navbar" width="600" height="400"/>
 <h3>Tablet Screen</h3>
-<img src="https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/a34c6696-b065-428a-b5f0-18d9c3db993b" title="responsive navbar" alt="responsive navbar" width="380" height="500"/>
+<img src="https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/d4157c79-ad8b-4240-a821-94ff933d4bc6" title="responsive navbar" alt="responsive navbar" width="380" height="500"/>
 <h3>Mobile Screen</h3>
-  <img src="https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/6f6b98a5-2438-4a03-92a7-3bbd8d5bb606" title="responsive navbar" alt="responsive navbar" width="200" height="400"/>
+  <img src="https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/86a4d31f-a9b9-4e99-87dc-2df934e05310" title="responsive navbar" alt="responsive navbar" width="200" height="400"/>
 </div>
 
 ### Useful Resources
