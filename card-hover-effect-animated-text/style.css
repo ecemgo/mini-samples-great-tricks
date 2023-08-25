@@ -1,0 +1,130 @@
+@import url("https://fonts.googleapis.com/css2?family=Mulish:wght@400;500;600&family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap");
+
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #ebeeff;
+}
+
+/* TITLE */
+
+.title {
+  color: #ebeeff;
+  margin-bottom: 30px;
+  animation-name: title;
+  animation-duration: 1s;
+  animation-timing-function: ease;
+  animation-delay: 0s;
+  animation-iteration-count: 1;
+  animation-direction: normal;
+  animation-fill-mode: forwards;
+}
+
+@keyframes title {
+  0% {
+    letter-spacing: 1.1em;
+    color: #ebeeff;
+  }
+
+  100% {
+    letter-spacing: 0.1em;
+    color: #a2aace;
+  }
+}
+
+/* CARD */
+
+.card {
+  position: relative;
+  width: 380px;
+  height: 240px;
+  border-radius: 10px;
+  background-image: var(--image-src);
+  background-position: 50% 50%;
+  background-size: 125%;
+  transition: background 1000ms ease;
+  box-shadow: 0 6.7px 5.3px rgba(0, 0, 0, 0.03),
+    0 22.3px 17.9px rgba(0, 0, 0, 0.05), 0 100px 80px rgba(0, 0, 0, 0.07);
+  overflow: hidden;
+}
+
+.card:hover {
+  background-position: 50% 100%;
+}
+
+.card:hover > figcaption {
+  bottom: -90px;
+  transform: translateY(-90px);
+  opacity: 1;
+}
+
+figcaption {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: absolute;
+  background: #0009;
+  width: 100%;
+  height: 90px;
+  padding: 15px 20px;
+  transition: transform 1000ms ease;
+  opacity: 0;
+}
+
+.info {
+  color: rgb(226, 226, 226);
+}
+
+.info > h2 {
+  font-size: 1.2rem;
+  letter-spacing: 1px;
+  margin-bottom: 2px;
+}
+
+.info > p {
+  color: #72cc60;
+  font-size: 0.8rem;
+}
+
+.links {
+  display: flex;
+  justify-content: end;
+  align-items: center;
+}
+
+.links a {
+  text-decoration: none;
+  position: relative;
+  width: 35px;
+  height: 35px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+  margin-left: 10px;
+  font-size: 1.2rem;
+  opacity: 0.65;
+  border-radius: 50%;
+  overflow: hidden;
+  transition: all 350ms ease;
+}
+
+.links a:hover {
+  opacity: 1;
+}
+
+.links a:focus {
+  outline: none;
+}
