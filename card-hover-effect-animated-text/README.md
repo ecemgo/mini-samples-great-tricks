@@ -8,7 +8,8 @@
 ### Screenshot
 
 <div align="left">
-<img src="screenshot.png" title="card hover effect" alt="card hover effect" width="600" height="400"/>
+<img src="https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/23c6cd3f-7e72-429c-833f-b101a4e5ee5d" title="card hover effect" alt="card hover effect" width="300" height="250"/>
+<img src="https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/e3dc6161-3163-4ee4-820d-cd5c6c9aebf2" title="card hover effect" alt="card hover effect" width="300" height="250"/>
 </div>
 
 ### Contact Me
