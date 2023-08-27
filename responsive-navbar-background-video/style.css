@@ -277,4 +277,13 @@ header {
   .content h1 {
     font-size: 3rem;
   }
+
+  .btn {
+    width: 130px;
+  }
+
+  .light::after {
+    width: 120px;
+    font-size: 0.9rem;
+  }
 }
