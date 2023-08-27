@@ -8,8 +8,8 @@
 ### Screenshot
 
 <div align="left">
-<img src="https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/23c6cd3f-7e72-429c-833f-b101a4e5ee5d" title="card hover effect" alt="card hover effect" width="300" height="250"/>
-<img src="https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/e3dc6161-3163-4ee4-820d-cd5c6c9aebf2" title="card hover effect" alt="card hover effect" width="300" height="250"/>
+<img src="https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/b6879c9d-5c9b-4874-a28b-9b47dfee1437" title="card hover effect" alt="card hover effect" width="320" height="250"/>
+<img src="https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/7eaa07ef-b914-4aa6-a602-b9ca3e1adc96" title="card hover effect" alt="card hover effect" width="340" height="250"/>
 </div>
 
 ### Contact Me
