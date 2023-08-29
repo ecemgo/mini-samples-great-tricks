@@ -38,7 +38,7 @@ This repository includes some great tricks with mini samples.
 |  #  | Samples                                                                                              | 
 | :-: | :---------------------------------------------------------------------------------------------------- | 
 | 01  | [Animated Login Form](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/animated-login-form)   |
-| 02  | [Client-side Form Validation](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/clientside-form-validation)   |
+| 02  | [Clientside Form Validation](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/clientside-form-validation)   |
 
 <br>
 
