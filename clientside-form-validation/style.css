@@ -1,158 +1,196 @@
-@import url('https://fonts.googleapis.com/css2?family=Noto+Serif&family=Roboto:wght@300;500&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,600;1,700;1,800;1,900&display=swap");
 
 * {
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
 }
 
 body {
-    background: linear-gradient(315deg, #8d5185 0%, #a1bafe 74%);
-    font-family: 'Roboto', sans-serif;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    min-height: 100vh;
+  background: #2e4362;
+  font-family: "Poppins", sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
 }
+
+/* LOGIN CONTAINER  */
 
 .container {
-    background-color: #fff;
-    border-radius: 5px;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
-    overflow: hidden;
-    width: 400px;
-    max-width: 100%;
+  background-color: #fff;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+  overflow: hidden;
+  width: 400px;
+  max-width: 100%;
 }
+
+/* HEADER  */
 
 .header {
-    background-color: #f7f7f7;
-    color: #ba4fab;
-    border-radius: 1px solid #f0f0f0;
-    padding: 20px 40px;
+  background-color: #f5f9ff;
+  color: #4389a2;
+  border-radius: 1px solid #f0f0f0;
+  padding: 20px 40px;
+  text-align: center;
+  animation: title 1s ease 0s 1 normal forwards;
 }
 
+@keyframes title {
+  0% {
+    letter-spacing: 10px;
+    color: #f5f9ff;
+  }
+
+  100% {
+    letter-spacing: 1px;
+    color: #4389a2;
+  }
+}
+
+/* FORM  */
+
 .form {
-    padding: 30px 40px;
+  padding: 30px 40px 20px;
 }
 
 .form-control {
-    margin-bottom: 10px;
-    padding-bottom: 20px;
-    position: relative;
+  position: relative;
+  margin-bottom: 20px;
 }
 
 .form-control label {
-    display: inline-block;
-    margin-bottom: 5px;
+  display: inline-block;
+  margin-bottom: 5px;
+  color: #0e7490;
+  font-size: 0.9rem;
 }
 
 .form-control input {
-    border: transparent;
-    outline: 2px dotted #f0f0f0;
-    border-radius: 4px;
-    display: block;
-    width: 100%;
-    padding: 10px;
-    font-size: 14px;
-    font-family: inherit;
-    transition: all 0.3s ease-in;
+  border: transparent;
+  outline: 2px dotted #f0f0f0;
+  border-radius: 4px;
+  display: block;
+  width: 100%;
+  padding: 10px;
+  font-size: 0.8rem;
+  font-family: inherit;
+  transition: all 0.4s ease-in;
 }
 
 input:focus {
-    border: transparent;
-    outline: 2px dotted #ba4fab;
+  border: transparent;
+  outline: 2px dotted #b12482;
 }
 
 .form-control.success input {
-    border-color: #2ecc71;
+  border-color: #2ecc71;
 }
 
 .form-control.error input {
-    border-color: #e74c3c;
+  border-color: #e74c3c;
 }
 
 .form-control i {
-    position: absolute;
-    top: 37px;
-    right: 10px;
-    visibility: hidden;
+  position: absolute;
+  top: 37px;
+  right: 10px;
+  visibility: hidden;
 }
 
 .form-control.success i.fa-check-circle {
-    visibility: visible;
-    color: #2ecc71;
+  visibility: visible;
+  color: #2ecc71;
 }
 
 .form-control.error i.fa-exclamation-circle {
-    visibility: visible;
-    color: #e74c3c;
+  visibility: visible;
+  color: #e74c3c;
 }
 
 .form-control small {
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    visibility: hidden;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  visibility: hidden;
 }
 
 .form-control.error small {
-    visibility: visible;
-    color: #e74c3c;
+  visibility: visible;
+  color: #b12482;
 }
 
+/* SUBMIT BUTTON  */
+
 .form button {
-    background-color: #8d5185;
-    border: none;
-    color: #fff;
-    display: block;
-    width: 100%;
-    padding: 10px;
-    font-size: 16px;
-    font-family: inherit;
-    border-radius: 4px;
-    cursor: pointer;
-    transition: all 0.4s linear;
+  display: block;
+  background-image: linear-gradient(
+    to right,
+    #5c258d 0%,
+    #4389a2 51%,
+    #5c258d 100%
+  );
+  background-size: 200% auto;
+  color: #fff;
+  width: 100%;
+  padding: 15px 45px;
+  margin: 30px 0 10px;
+  font-size: 16px;
+  font-family: inherit;
+  text-align: center;
+  text-transform: uppercase;
+  border: none;
+  border-radius: 5px;
+  box-shadow: 0 0 20px #eee;
+  cursor: pointer;
+  transition: all 0.5s linear;
 }
 
 .form button:hover {
-    background-color: #b2239f;
+  background-position: right center;
+  color: #fff;
+  text-decoration: none;
 }
 
+/* MESSAGE AFTER SUBMITTING  */
+
 .message {
-    padding: 30px;
-    font-size: 2rem;
-    color: #b2239f;
-    text-align: center;
-    animation-name: fade-in;
-    -webkit-animation-name: fade-in;
-    animation-duration: 1.5s;
-    -webkit-animation-duration: 1.5s;
-    animation-timing-function: ease-in-out;
-    -webkit-animation-timing-function: ease-in-out;
-    animation-fill-mode: forwards;
-    -webkit-animation-fill-mode: forwards;
-    animation-direction: alternate;
-    -webkit-animation-direction: alternate;
+  padding: 30px;
+  font-size: 2rem;
+  color: #4389a2;
+  text-align: center;
+  text-transform: uppercase;
+  animation-name: fade-in;
+  -webkit-animation-name: fade-in;
+  animation-duration: 1.5s;
+  -webkit-animation-duration: 1.5s;
+  animation-timing-function: ease-in-out;
+  -webkit-animation-timing-function: ease-in-out;
+  animation-fill-mode: forwards;
+  -webkit-animation-fill-mode: forwards;
+  animation-direction: alternate;
+  -webkit-animation-direction: alternate;
 }
 
 .hidden {
-    display: none;
+  display: none;
 }
 
 @keyframes fade-in {
-    from {
-        transform: rotate(0deg) scale(0) skew(0deg) translateY(30px);
-    }
-    to {
-        transform: rotate(0deg) scale(1) skew(0deg) translateY(0);
-    }
+  from {
+    transform: rotate(0deg) scale(0) skew(0deg) translateY(30px);
+  }
+  to {
+    transform: rotate(0deg) scale(1) skew(0deg) translateY(0);
+  }
 }
 
 @-webkit-keyframes fade-in {
-    from {
-        -webkit-transform: rotate(0deg) scale(0) skew(0deg) translateY(30px);
-    }
-    to {
-        -webkit-transform: rotate(0deg) scale(1) skew(0deg) translateY(0);
-    }
+  from {
+    -webkit-transform: rotate(0deg) scale(0) skew(0deg) translateY(30px);
+  }
+  to {
+    -webkit-transform: rotate(0deg) scale(1) skew(0deg) translateY(0);
+  }
 }

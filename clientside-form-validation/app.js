@@ -4,6 +4,7 @@ const email = document.getElementById("email");
 const password = document.getElementById("password");
 const confirmpassword = document.getElementById("confirmpassword");
 const header = document.querySelector(".header");
+const button = document.querySelector("button");
 const message = document.querySelector(".message");
 
 //! submit the form when clicking the button
@@ -65,12 +66,16 @@ function setErrorFor(input, message) {
 
   small.innerText = message;
   formControl.className = "form-control error";
+  formControl.style.paddingBottom = "20px";
+  formControl.style.marginBottom = "10px";
 }
 
 //! add success class to the form-control
 function setSuccessFor(input) {
   const formControl = input.parentElement;
   formControl.className = "form-control success";
+  formControl.style.paddingBottom = "0";
+  formControl.style.marginBottom = "20px";
 }
 
 //! check email with Regex

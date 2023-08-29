@@ -1,55 +1,61 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-    <link rel="stylesheet" href="style.css">
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
+    <link rel="stylesheet" href="style.css" />
     <title>Client-side Form Validation</title>
-</head>
-<body>
-  <div class="container">
-    <div class="header">
+  </head>
+  <body>
+    <div class="container">
+      <div class="header">
         <h2>Create Account</h2>
-    </div>
-    <form class="form" id="form">
+      </div>
+
+      <form class="form" id="form">
         <div class="form-control">
-            <label for="">Username</label>
-            <input type="text" placeholder="username" id="username">
-            <i class="fas fa-check-circle"></i>
-            <i class="fas fa-exclamation-circle"></i>
-            <small>Error message</small>
+          <label for="">Username</label>
+          <input type="text" placeholder="username" id="username" />
+          <i class="fas fa-check-circle"></i>
+          <i class="fas fa-exclamation-circle"></i>
+          <small>Error message</small>
         </div>
         <div class="form-control">
-            <label for="">Email</label>
-            <input type="email" placeholder="info@email.com" id="email">
-            <i class="fas fa-check-circle"></i>
-            <i class="fas fa-exclamation-circle"></i>
-            <small>Error message</small>
+          <label for="">Email</label>
+          <input type="email" placeholder="info@email.com" id="email" />
+          <i class="fas fa-check-circle"></i>
+          <i class="fas fa-exclamation-circle"></i>
+          <small>Error message</small>
         </div>
         <div class="form-control">
-            <label for="">Password</label>
-            <input type="password" placeholder="Password" id="password">
-            <i class="fas fa-check-circle"></i>
-            <i class="fas fa-exclamation-circle"></i>
-            <small>Error message</small>
+          <label for="">Password</label>
+          <input type="password" placeholder="password" id="password" />
+          <i class="fas fa-check-circle"></i>
+          <i class="fas fa-exclamation-circle"></i>
+          <small>Error message</small>
         </div>
         <div class="form-control">
-            <label for="">Confirm Password</label>
-            <input type="password" placeholder="Confirm Password" id="confirmpassword">
-            <i class="fas fa-check-circle"></i>
-            <i class="fas fa-exclamation-circle"></i>
-            <small>Error message</small>
+          <label for="">Confirm Password</label>
+          <input
+            type="password"
+            placeholder="confirm password"
+            id="confirmpassword" />
+          <i class="fas fa-check-circle"></i>
+          <i class="fas fa-exclamation-circle"></i>
+          <small>Error message</small>
         </div>
         <button>Submit</button>
-    </form>
-    <div class="message hidden">
+      </form>
+      <div class="message hidden">
         <p>Submitted! 🎉</p>
+      </div>
     </div>
-  </div>
 
-<script src="app.js"></script>
-</body>
+    <script src="app.js"></script>
+  </body>
 </html>
