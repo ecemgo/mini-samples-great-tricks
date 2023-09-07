@@ -1,85 +1,99 @@
-@import url('https://fonts.googleapis.com/css2?family=Noto+Serif&family=Roboto:wght@300;500&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Noto+Serif&family=Roboto:wght@300;500&display=swap");
 
 * {
-    font-family: 'Roboto', sans-serif;
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
 body {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    min-height: 100vh;
-    background: #343f4f;
-    padding: 0 35px;
+  display: flex;
+  justify-content: center;
+  /* align-items: center; */
+  min-height: 100dvh;
+  background: linear-gradient(
+    160deg,
+    rgba(72, 63, 102, 1) 44%,
+    rgba(185, 173, 219, 1) 90%
+  );
+  padding: 0 35px;
 }
 
 .wrapper {
-    max-width: 1200px;
-    position: relative;
+  /* position: relative; */
+  max-width: 1200px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 
 .wrapper i {
-    position: absolute;
-    background: #fff;
-    height: 46px;
-    width: 46px;
-    text-align: center;
-    cursor: pointer;
-    font-size: 1.2rem;
-    line-height: 46px;
-    border-radius: 50%;
-    top: 50%;
-    transform: translateY(-50%);
+  height: 50px;
+  width: 50px;
+  text-align: center;
+  cursor: pointer;
+  font-size: 1.3rem;
+  line-height: 46px;
+  border-radius: 50%;
+  color: #fff;
+  background: linear-gradient(to bottom, #856077, #b9addb);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.5),
+    inset 0px 4px 4px rgba(255, 255, 255, 0.2);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: all 0.1s ease-in-out;
 }
 
-.wrapper i:first-child {
-    left: -23px;
-    display: none;
+.wrapper i:active {
+  transform: scale(1.03);
 }
 
-.wrapper i:last-child {
-    right: -23px;
+.arrows {
+  /* position: absolute; */
+  display: flex;
+  gap: 20px;
+  margin-top: 30px;
 }
 
 .wrapper .carousel {
-    white-space: nowrap;
-    font-size: 0;
-    overflow: hidden;
-    cursor: pointer;
-    scroll-behavior: smooth;
+  white-space: nowrap;
+  font-size: 0;
+  overflow: hidden;
+  cursor: pointer;
+  scroll-behavior: smooth;
 }
 
 .carousel.dragging {
-    cursor: grab;
-    scroll-behavior: auto;
+  cursor: grab;
+  scroll-behavior: auto;
 }
 
 .carousel.dragging img {
-    pointer-events: none;
+  pointer-events: none;
 }
 
 .carousel img {
-    height: 340px;
-    width: calc(100% / 3);
-    object-fit: cover;
-    margin-left: 14px;
+  height: 340px;
+  width: calc(100% / 3);
+  object-fit: cover;
+  margin-left: 14px;
 }
 
 .carousel img:first-child {
-    margin-left: 0;
+  margin-left: 0;
 }
 
 @media screen and (max-width: 900px) {
-    .carousel img {
-        width: calc(100% / 2);
-    }
+  .carousel img {
+    width: calc(100% / 2);
+  }
 }
 
 @media screen and (max-width: 550px) {
-    .carousel img {
-        width: 100%;
-    }
+  .carousel img {
+    width: 100%;
+  }
 }

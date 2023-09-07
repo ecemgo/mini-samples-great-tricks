@@ -2,19 +2,11 @@
 
 ### Link
 
-- [Live Site](https://ecemgo-draggable-image-slider.netlify.app/) - GitHub version
-- [CodePen](https://codepen.io/ecemgo/pen/PoydaNN) - CodePen version
+- [CodePen](https://codepen.io/ecemgo/pen/PoydaNN)
 
 ### Screenshot
 
 <div align="left">
-<h3>Laptop Screen</h3>
-<img src="https://github.com/ecemgo/frontend-mentor-challenges/assets/13468728/31bda629-84e7-4f82-b38b-7740adc912cd" title="draggable image slider" alt="draggable image slider" width="600" height="400"/>
-<h3>Tablet Screen</h3>
-<img src="https://github.com/ecemgo/frontend-mentor-challenges/assets/13468728/d740cdc8-dc8a-453e-b7c6-35c216e72c94" title="draggable image slider" alt="draggable image slider" width="300" height="400"/>
-<h3>Mobile Screen</h3>
-<img src="https://github.com/ecemgo/frontend-mentor-challenges/assets/13468728/354fcc47-679c-4e2e-b144-a2c55f64301d" title="draggable image slider" alt="draggable image slider" width="200" height="400"/>
-<h3>Codepen Version</h3>
 <img src="https://github.com/ecemgo/ecemgo/assets/13468728/916911ea-b1eb-49e4-8c6b-c97c1444f632" title="draggable image slider" alt="draggable image slider" width="600" height="350"/>
 </div>
 
@@ -25,6 +17,5 @@
 ### Contact Me
 
 - Website - [ecemgo.com](https://www.ecemgo.com/)
-- Frontend Mentor - [@ecemgo](https://www.frontendmentor.io/profile/ecemgo)
 - Twitter - [@ecemgo](https://twitter.com/ecemgo)
 - CodePen - [@ecemgo](https://codepen.io/ecemgo)
