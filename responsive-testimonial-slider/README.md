@@ -2,7 +2,6 @@
 
 ### Links
 
-- [Live Site](https://ecemgo-responsive-testimonial-slider.netlify.app/)
 - [CodePen](https://codepen.io/ecemgo/pen/NWOKzmq)
 
 ### Screenshot
@@ -23,10 +22,8 @@
 - [Swiper](https://swiperjs.com/get-started) - It is used for the slides.
 - [Unsplash](https://unsplash.com/) - It is used for the images.
 
-
 ## Author
 
 - Website - [ecemgo.com](https://www.ecemgo.com/)
-- Frontend Mentor - [@ecemgo](https://www.frontendmentor.io/profile/ecemgo)
 - Twitter - [@ecemgo](https://twitter.com/ecemgo)
 - CodePen - [@ecemgo](https://codepen.io/ecemgo)
