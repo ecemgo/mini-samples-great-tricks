@@ -2,7 +2,6 @@
 
 ### Link
 
-- [Live Site](https://responsive-glassmorphism-navbar.netlify.app/)
 - [CodePen](https://codepen.io/ecemgo/pen/KKrYaye)
 
 ### Screenshot
@@ -22,6 +21,5 @@
 ### Contact Me
 
 - Website - [ecemgo.com](https://www.ecemgo.com/)
-- Frontend Mentor - [@ecemgo](https://www.frontendmentor.io/profile/ecemgo)
 - Twitter - [@ecemgo](https://twitter.com/ecemgo)
 - CodePen - [@ecemgo](https://codepen.io/ecemgo)
