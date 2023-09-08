@@ -7,7 +7,10 @@
 }
 
 body {
-  background: #2e4362;
+  /* background: #2E4362; */
+  background-image: url("https://github.com/ecemgo/today-i-learned-app/assets/13468728/3e670a0a-667d-4363-806c-b140026a43dd");
+  background-size: cover;
+  backdrop-filter: blur(6px);
   font-family: "Poppins", sans-serif;
   display: flex;
   align-items: center;
@@ -18,7 +21,13 @@ body {
 /* LOGIN CONTAINER  */
 
 .container {
-  background-color: #fff;
+  /* background-color: #fff; */
+  background: rgba(255, 255, 255, 0.8);
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(25px);
+  -webkit-backdrop-filter: blur(25px);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  border: 1px solid rgba(255, 255, 255, 0.3);
   border-radius: 5px;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
   overflow: hidden;
@@ -29,10 +38,9 @@ body {
 /* HEADER  */
 
 .header {
-  background-color: #f5f9ff;
-  color: #4389a2;
+  /* background-color: #F5F9FF; */
   border-radius: 1px solid #f0f0f0;
-  padding: 20px 40px;
+  padding: 20px 40px 0;
   text-align: center;
   animation: title 1s ease 0s 1 normal forwards;
 }
@@ -45,7 +53,7 @@ body {
 
   100% {
     letter-spacing: 1px;
-    color: #4389a2;
+    color: #2b5175;
   }
 }
 
@@ -63,17 +71,19 @@ body {
 .form-control label {
   display: inline-block;
   margin-bottom: 5px;
-  color: #0e7490;
+  color: #2b5175;
   font-size: 0.9rem;
 }
 
 .form-control input {
   border: transparent;
+  background: transparent;
   outline: 2px dotted #f0f0f0;
   border-radius: 4px;
   display: block;
   width: 100%;
   padding: 10px;
+  margin-bottom: 5px;
   font-size: 0.8rem;
   font-family: inherit;
   transition: all 0.4s ease-in;
@@ -81,15 +91,17 @@ body {
 
 input:focus {
   border: transparent;
-  outline: 2px dotted #b12482;
+  outline: 2px dotted #2b5175;
 }
 
 .form-control.success input {
-  border-color: #2ecc71;
+  /* border-color: #2ecc71; */
+  outline: 2px dotted #2ecc71;
 }
 
 .form-control.error input {
-  border-color: #e74c3c;
+  /* border-color: #e74c3c; */
+  outline: 2px dotted #8b2e31;
 }
 
 .form-control i {
@@ -118,7 +130,7 @@ input:focus {
 
 .form-control.error small {
   visibility: visible;
-  color: #b12482;
+  color: #8b2e31;
 }
 
 /* SUBMIT BUTTON  */
@@ -158,19 +170,12 @@ input:focus {
 .message {
   padding: 30px;
   font-size: 2rem;
+  font-weight: 600;
   color: #4389a2;
   text-align: center;
   text-transform: uppercase;
-  animation-name: fade-in;
-  -webkit-animation-name: fade-in;
-  animation-duration: 1.5s;
-  -webkit-animation-duration: 1.5s;
-  animation-timing-function: ease-in-out;
-  -webkit-animation-timing-function: ease-in-out;
-  animation-fill-mode: forwards;
-  -webkit-animation-fill-mode: forwards;
-  animation-direction: alternate;
-  -webkit-animation-direction: alternate;
+  animation: fade-in 1.5s ease-in-out forwards alternate;
+  -webkit-animation: fade-in 1.5s ease-in-out forwards alternate;
 }
 
 .hidden {
