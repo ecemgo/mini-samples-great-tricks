@@ -2,7 +2,6 @@
 
 ### Link
 
-- [Live Site](https://harry-potter-characters-cards.netlify.app/)
 - [CodePen](https://codepen.io/ecemgo/pen/MWPoxpg)
 
 ### Screenshot
@@ -13,12 +12,11 @@
 
 ### Useful Resources
 
-- [50 Projects In 50 Days](https://www.udemy.com/course/50-projects-50-days/) - It is a tutorial on Udemy about HTML, CSS and Javascript.
-- [Fantasy Topics](https://fantasytopics.com/harry-potter-characters-list/) - It is used for Harry Potter characters list.
+- [50 Projects In 50 Days](https://www.udemy.com/course/50-projects-50-days/) - It is a tutorial on Udemy about HTML, CSS, and Javascript.
+- [Fantasy Topics](https://fantasytopics.com/harry-potter-characters-list/) - It is used for the Harry Potter characters list.
 
 ### Contact Me
 
 - Website - [ecemgo.com](https://www.ecemgo.com/)
-- Frontend Mentor - [@ecemgo](https://www.frontendmentor.io/profile/ecemgo)
 - Twitter - [@ecemgo](https://twitter.com/ecemgo)
 - CodePen - [@ecemgo](https://codepen.io/ecemgo)
