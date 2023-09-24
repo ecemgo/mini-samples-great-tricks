@@ -49,6 +49,8 @@ This repository includes some great tricks with mini samples.
 | 02  | [Card Hover Effect and Animated Text](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/card-hover-effect-animated-text)   |
 | 03  | [Expanding Cards](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/expanding-cards-harry-potter)   |
 
+<br>
+
 ### Parallax
 |  #  | Samples                                                                                             | 
 | :-: | :---------------------------------------------------------------------------------------------------- | 
