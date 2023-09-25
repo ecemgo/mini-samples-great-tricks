@@ -10,7 +10,7 @@
 <h3 align="left">Form</h3>
 <img src="https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/37a3c2e0-e72d-4e86-bcf2-5119d7211594" title="clientside form" alt="clientside form" width="800" height="500"/>
 <h3 align="left">Show Message</h3>
-<img src="https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/994a2d27-d6f8-459e-9890-f2e1f1559155" title="clientside form" alt="clientside form" width="800" height="500"/>
+<img src="https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/e24a91e7-1624-4be5-a106-ceb26808bd2d" title="clientside form" alt="clientside form" width="800" height="500"/>
 </div>
 
 ### Useful Resources

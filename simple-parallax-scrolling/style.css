@@ -7,6 +7,10 @@
   font-family: "Poppins", sans-serif;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   min-height: 100dvh;
   overflow-x: hidden;
@@ -62,6 +66,8 @@ header {
   justify-content: center;
   align-items: center;
   height: 110dvh;
+  background-color: #fba8a4;
+  background-image: linear-gradient(315deg, #fba8a4 0%, #dad2f3 74%);
 }
 
 .parallax img {
@@ -82,8 +88,19 @@ header {
 
 .blog {
   position: relative;
-  padding: 100px;
+  padding: 100px 150px;
   background: #112434;
+}
+
+.blog::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 50px;
+  background-image: linear-gradient(to top, transparent, #1a3647);
+  z-index: 999;
 }
 
 .blog h2 {
