@@ -7,11 +7,7 @@
 ### Screenshot
 
 <div align="left">
-<h3 align="left">Form</h3>
-<img src="https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/37a3c2e0-e72d-4e86-bcf2-5119d7211594" title="clientside form" alt="clientside form" width="800" height="500"/>
-<h3 align="left">Show Message</h3>
-<img src="https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/e24a91e7-1624-4be5-a106-ceb26808bd2d" title="clientside form" alt="clientside form" width="800" height="500"/>
-<img src="https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/af8f8dcd-fbab-4980-b936-2a4172d4a2c5" title="parallax" alt="parallax" width="800" height="500"/>
+<img src="https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/207944d3-18b7-4175-b180-1dbb37f592a2" title="clientside form" alt="clientside form" width="800" height="550"/>
 </div>
 
 ### Useful Resources
