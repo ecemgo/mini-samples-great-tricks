@@ -51,7 +51,7 @@ This repository includes some great tricks with mini samples.
 
 <br>
 
-### Parallax
+### Parallax Effect
 |  #  | Samples                                                                                             | 
 | :-: | :---------------------------------------------------------------------------------------------------- | 
 | 01  | [Simple Parallax Scrolling](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/simple-parallax-scrolling)   |
