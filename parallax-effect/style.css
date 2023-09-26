@@ -159,7 +159,7 @@ header {
 .card img {
   display: block;
   width: 100%;
-  max-width: 200px;
+  max-width: 250px;
   aspect-ratio: 1/1;
   margin: 20px;
 }
