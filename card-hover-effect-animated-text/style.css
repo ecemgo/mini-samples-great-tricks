@@ -21,7 +21,7 @@ body {
 /* TITLE */
 
 .title {
-  color: #ebeeff;
+  color: #a2aace;
   margin-bottom: 30px;
   animation-name: title;
   animation-duration: 1s;
@@ -104,7 +104,7 @@ figcaption {
   align-items: center;
 }
 
-.links a {
+.nav-icon {
   text-decoration: none;
   position: relative;
   width: 35px;
@@ -121,10 +121,16 @@ figcaption {
   transition: all 350ms ease;
 }
 
-.links a:hover {
+.nav-icon:hover {
   opacity: 1;
 }
 
-.links a:focus {
+.nav-icon:focus {
   outline: none;
+}
+
+.active {
+  color: red;
+  opacity: 1;
+  transform: scale(1.2);
 }
