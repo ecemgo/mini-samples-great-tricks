@@ -130,13 +130,13 @@ header {
   color: #000;
   font-weight: 400;
   margin-bottom: 30px;
-  text-align: justify;
+  text-align: center;
   line-height: 1.5;
 }
 
 .cards {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(500px, 1fr));
   justify-content: center;
   align-items: center;
   gap: 40px;
@@ -174,7 +174,7 @@ header {
 .card p {
   font-size: clamp(0.9rem, 6vw, 1rem);
   text-align: justify;
-  line-height: 1.4;
+  line-height: 1.5;
 }
 
 @media (max-width: 1300px) {
@@ -183,7 +183,7 @@ header {
   }
 
   .blog {
-    padding: 100px 70px 20px;
+    padding: 100px 120px 20px;
   }
 
   .cards {
@@ -206,7 +206,7 @@ header {
   }
 
   .blog {
-    padding: 90px 60px 20px;
+    padding: 90px 150px 20px;
   }
 
   .cards {
@@ -228,7 +228,12 @@ header {
     height: 80dvh;
   }
 
+  .blog {
+    padding: 90px 60px 20px;
+  }
+
   .cards {
+    grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
     gap: 30px;
     padding: 50px 40px 50px;
   }
