@@ -2,13 +2,13 @@
 
 ### Link
 
-- [Live Site](https://ecemgo-card-hover-effect.netlify.app/)
 - [CodePen](https://codepen.io/ecemgo/pen/PoywNzQ)
 
 ### Screenshot
 
 <div align="left">
-<img src="https://user-images.githubusercontent.com/13468728/233836937-5cbd62c9-6428-4ae6-8936-a2d708635f7e.jpeg" title="card hover effect" alt="card hover effect" width="600" height="400"/>
+<img src="https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/949b5873-2d2c-46d6-98fd-b8b0c70fbf19" title="card hover effect" alt="card hover effect" width="600" height="400"/>
+<img src="https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/50fc3475-4a04-4823-b7e7-634314220c15" title="card hover effect" alt="card hover effect" width="600" height="400"/>
 </div>
 
 ### Useful Resources
