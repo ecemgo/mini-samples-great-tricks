@@ -2,7 +2,7 @@
 
 ### Link
 
-- [Live Site](https://sunset-paradise.netlify.app/)
+- [Codepen](https://codepen.io/ecemgo/pen/BavreOY)
 
 ### Screenshot
 
