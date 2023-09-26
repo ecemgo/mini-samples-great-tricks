@@ -1,0 +1,235 @@
+@import url("https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;400;500;600;700&family=Mooli&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+h1,
+h2,
+h3 {
+  font-family: "Comfortaa", cursive;
+}
+
+body {
+  min-height: 100dvh;
+  overflow-x: hidden;
+  background: #fff;
+  font-family: "Mooli", sans-serif;
+}
+
+header {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  padding: 30px 100px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  z-index: 100;
+}
+
+.logo {
+  color: #112434;
+  font-weight: 700;
+  font-size: clamp(1.1rem, 6vw, 1.7rem);
+  text-decoration: none;
+}
+
+.navigation {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.navigation li {
+  list-style: none;
+  margin-left: 20px;
+}
+
+.navigation li a {
+  text-decoration: none;
+  padding: 6px 15px;
+  color: #112434;
+  border-radius: 20px;
+  font-size: clamp(0.9rem, 6vw, 1rem);
+}
+
+.navigation li a:hover,
+.navigation li a.active {
+  background: #112434;
+  color: #fff;
+}
+
+.parallax {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 150dvh;
+  background: rgb(206, 245, 223);
+  background: radial-gradient(
+    circle,
+    rgba(206, 245, 223, 0.4459033613445378) 34%,
+    rgba(206, 245, 223, 1) 68%
+  );
+}
+
+.parallax img {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  pointer-events: none;
+}
+
+#title {
+  position: absolute;
+  top: 13%;
+  font-size: clamp(2rem, 6vw, 4rem);
+  color: #000;
+  z-index: 50;
+}
+
+.blog {
+  position: relative;
+  padding: 150px 150px 20px;
+  background: #f6f0e7;
+}
+
+.blog::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 50px;
+  background: rgb(246, 240, 231);
+  background: radial-gradient(
+    circle,
+    rgba(246, 240, 231, 1) 54%,
+    rgba(0, 114, 125, 1) 99%
+  );
+  z-index: 999;
+}
+
+.blog h2 {
+  font-size: clamp(2rem, 6vw, 3rem);
+  color: #000;
+  margin: 60px 0 40px;
+}
+
+.blog p {
+  font-size: clamp(1rem, 6vw, 1.3rem);
+  color: #000;
+  font-weight: 400;
+  margin-bottom: 30px;
+  text-align: justify;
+  line-height: 1.5;
+}
+
+.cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  justify-content: center;
+  align-items: center;
+  gap: 40px;
+  padding: 80px 120px 80px;
+  background: #f6f0e7;
+}
+
+.card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #fff;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  border-radius: 20px;
+  padding: 30px 40px;
+  border: 2mm ridge rgba(0, 114, 125, 0.7);
+}
+
+.card img {
+  display: block;
+  width: 100%;
+  max-width: 200px;
+  aspect-ratio: 1/1;
+  margin: 20px;
+}
+
+.card h3 {
+  font-size: clamp(1.2rem, 6vw, 1.4rem);
+  font-weight: 700;
+  margin: 20px 0 20px;
+  text-align: center;
+}
+
+.card p {
+  font-size: clamp(0.9rem, 6vw, 1rem);
+  text-align: justify;
+  line-height: 1.4;
+}
+
+@media (max-width: 1300px) {
+  header {
+    padding: 30px 50px;
+  }
+
+  .blog {
+    padding: 100px 70px 20px;
+  }
+
+  .cards {
+    gap: 40px;
+    padding: 80px 60px 80px;
+  }
+}
+
+@media (max-width: 900px) {
+  .navigation li {
+    margin-left: 10px;
+  }
+
+  .parallax {
+    height: 120dvh;
+  }
+
+  #title {
+    top: 20%;
+  }
+
+  .blog {
+    padding: 90px 60px 20px;
+  }
+
+  .cards {
+    gap: 30px;
+    padding: 80px 40px 80px;
+  }
+
+  .card h3 {
+    margin: 20px 0 20px;
+  }
+}
+
+@media (max-width: 600px) {
+  header {
+    padding: 30px 30px;
+  }
+
+  .parallax {
+    height: 80dvh;
+  }
+
+  .cards {
+    gap: 30px;
+    padding: 50px 40px 50px;
+  }
+}
