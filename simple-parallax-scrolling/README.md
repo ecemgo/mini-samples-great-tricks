@@ -15,7 +15,7 @@
 ### Screenshot
 
 <div align="left">
-<img src="https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/207944d3-18b7-4175-b180-1dbb37f592a2" title="clientside form" alt="clientside form" width="800" height="550"/>
+<img src="https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/207944d3-18b7-4175-b180-1dbb37f592a2" title="simple parallax scrolling" alt="simple parallax scrolling" width="800" height="550"/>
 </div>
 
 ### Useful Resources
