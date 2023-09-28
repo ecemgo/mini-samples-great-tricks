@@ -17,42 +17,48 @@ This repository includes some great tricks with mini samples.
 <br>
 
 ### Slider
-|  #  | Samples                                                                                             | 
-| :-: | :---------------------------------------------------------------------------------------------------- | 
-| 01  | [Testimonial Slider](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/testimonial-slider-v1)   |
-| 02  | [Responsive Testimonial Slider](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/responsive-testimonial-slider)   |
-| 03  | [Responsive Draggable Image Slider](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/draggable-image-slider)   |
-| 04  | [Image Slider](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/image-slider)   |
+
+|  #  | Samples                                                                                                                      |
+| :-: | :--------------------------------------------------------------------------------------------------------------------------- |
+| 01  | [Testimonial Slider](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/testimonial-slider-v1)                    |
+| 02  | [Responsive Testimonial Slider](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/responsive-testimonial-slider) |
+| 03  | [Responsive Draggable Image Slider](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/draggable-image-slider)    |
+| 04  | [Image Slider](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/image-slider)                                   |
+| 05  | [Card Effect]()                                                                                                              |
 
 <br>
 
 ### Navbar
-|  #  | Samples                                                                                             | 
-| :-: | :---------------------------------------------------------------------------------------------------- | 
-| 01  | [Responsive Glassmorphism Navbar](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/responsive-glassmorphism-navbar)   |
-| 02  | [Responsive Navbar & Background Video](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/responsive-navbar-background-video)            |
+
+|  #  | Samples                                                                                                                                  |
+| :-: | :--------------------------------------------------------------------------------------------------------------------------------------- |
+| 01  | [Responsive Glassmorphism Navbar](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/responsive-glassmorphism-navbar)         |
+| 02  | [Responsive Navbar & Background Video](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/responsive-navbar-background-video) |
 
 <br>
 
 ### Login Form
-|  #  | Samples                                                                                              | 
-| :-: | :---------------------------------------------------------------------------------------------------- | 
-| 01  | [Animated Login Form](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/animated-login-form)   |
-| 02  | [Clientside Form Validation](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/clientside-form-validation)   |
+
+|  #  | Samples                                                                                                                |
+| :-: | :--------------------------------------------------------------------------------------------------------------------- |
+| 01  | [Animated Login Form](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/animated-login-form)               |
+| 02  | [Clientside Form Validation](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/clientside-form-validation) |
 
 <br>
 
 ### Cards
-|  #  | Samples                                                                                              | 
-| :-: | :---------------------------------------------------------------------------------------------------- | 
-| 01  | [Card Hover Effect](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/card-hover-effect)   |
-| 02  | [Card Hover Effect and Animated Text](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/card-hover-effect-animated-text)   |
-| 03  | [Expanding Cards](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/expanding-cards-harry-potter)   |
+
+|  #  | Samples                                                                                                                              |
+| :-: | :----------------------------------------------------------------------------------------------------------------------------------- |
+| 01  | [Card Hover Effect](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/card-hover-effect)                                 |
+| 02  | [Card Hover Effect and Animated Text](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/card-hover-effect-animated-text) |
+| 03  | [Expanding Cards](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/expanding-cards-harry-potter)                        |
 
 <br>
 
 ### Parallax Effect
-|  #  | Samples                                                                                             | 
-| :-: | :---------------------------------------------------------------------------------------------------- | 
-| 01  | [Simple Parallax Scrolling](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/simple-parallax-scrolling)   |
-| 02  | [Parallax Effect](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/parallax-effect)   |
+
+|  #  | Samples                                                                                                              |
+| :-: | :------------------------------------------------------------------------------------------------------------------- |
+| 01  | [Simple Parallax Scrolling](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/simple-parallax-scrolling) |
+| 02  | [Parallax Effect](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/parallax-effect)                     |
