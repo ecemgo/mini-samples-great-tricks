@@ -8,12 +8,12 @@
 
 ### Link
 
-- [Live Site](https://codepen.io/ecemgo/pen/ZEVojzN)
+- [Codepen](https://codepen.io/ecemgo/pen/ZEVojzN)
 
 ### Screenshot
 
 <div align="left">
-<img src="https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/c0ded23c-c053-4b54-b790-b03c5d92bac9" title="card effect" alt="card effect" width="800" height="550"/>
+<img src="https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/c0ded23c-c053-4b54-b790-b03c5d92bac9" title="card effect" alt="card effect" width="800" height="500"/>
 </div>
 
 ### Useful Resources
