@@ -24,7 +24,7 @@ This repository includes some great tricks with mini samples.
 | 02  | [Responsive Testimonial Slider](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/responsive-testimonial-slider) |
 | 03  | [Responsive Draggable Image Slider](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/draggable-image-slider)    |
 | 04  | [Image Slider](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/image-slider)                                   |
-| 05  | [Card Effect]()                                                                                                              |
+| 05  | [Card Effect](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/card-effect)                                     |
 
 <br>
 
