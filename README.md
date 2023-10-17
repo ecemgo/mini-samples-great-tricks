@@ -25,7 +25,8 @@ This repository includes some great tricks with mini samples.
 | 02  | [Responsive Draggable Image Slider](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/draggable-image-slider)    |
 | 03  | [Image Slider](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/image-slider)                                   |
 | 04  | [Card Effect](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/card-effect)                                     |
-| 05  | [Neumorphic Slider](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/neumorphic-slider)                                     |
+| 05  | [Neumorphic Slider](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/neumorphic-slider)                         |
+| 06  | [Responsive Slider with Scrollbar](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/responsive-slider-with-scrollbar)    |
 
 <br>
 
