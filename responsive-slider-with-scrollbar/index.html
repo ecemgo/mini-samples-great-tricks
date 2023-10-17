@@ -1,0 +1,363 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css"
+      integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer" />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.css" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Project</title>
+  </head>
+  <body>
+    <section id="recipes">
+      <div class="recipe-container">
+        <h1>Delightful Dessert Recipes</h1>
+        <div class="swiper">
+          <div class="swiper-wrapper">
+            <div class="swiper-slide post">
+              <img
+                class="post-img"
+                src="images/1-homemade-ice-cream.jpg"
+                alt="recipe" />
+
+              <div class="post-body">
+                <img
+                  class="post-avatar"
+                  src="images/1-evelyn.png"
+                  alt="avatar" />
+                <div class="post-detail">
+                  <h2 class="post-name">Homemade Ice Cream</h2>
+                  <p class="post-author">Evelyn Taylor</p>
+                </div>
+
+                <div class="post-actions">
+                  <a class="post-like" href="javascript:void(0)"
+                    ><i class="fas fa-heart"></i
+                  ></a>
+                  <button
+                    class="post-actions-controller"
+                    data-target="post1"
+                    aria-controls="post-actions-content"
+                    aria-expanded="false">
+                    <i class="fa-solid fa-ellipsis fa-2xl"></i>
+                  </button>
+                  <div
+                    class="post-actions-content"
+                    id="post1"
+                    data-visible="false"
+                    aria-hidden="true">
+                    <ul role="list" class="grid-flow" data-spacing="small">
+                      <li>
+                        <a class="post-actions-link" href="javascript:void(0)">
+                          <i class="fa-solid fa-folder-open"></i>
+                          <span>Add to Collection</span>
+                        </a>
+                      </li>
+                      <li>
+                        <a class="post-actions-link" href="javascript:void(0)">
+                          <i class="fa-solid fa-eye"></i>
+                          <span>Show the Recipe</span>
+                        </a>
+                      </li>
+                      <li>
+                        <a class="post-actions-link" href="javascript:void(0)">
+                          <i class="fa-solid fa-user-plus"></i>
+                          <span>Follow the User</span>
+                        </a>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="swiper-slide post">
+              <img class="post-img" src="images/2-pan-cake.jpg" alt="recipe" />
+
+              <div class="post-body">
+                <img
+                  class="post-avatar"
+                  src="images/2-ethan.png"
+                  alt="avatar" />
+                <div class="post-detail">
+                  <h2 class="post-name">Pancake</h2>
+                  <p class="post-author">Ethan Wilson</p>
+                </div>
+
+                <div class="post-actions">
+                  <a class="post-like" href="javascript:void(0)"
+                    ><i class="fas fa-heart"></i
+                  ></a>
+                  <button
+                    class="post-actions-controller"
+                    data-target="post2"
+                    aria-controls="post-actions-content"
+                    aria-expanded="false">
+                    <i class="fa-solid fa-ellipsis fa-2xl"></i>
+                  </button>
+                  <div
+                    class="post-actions-content"
+                    id="post2"
+                    data-visible="false"
+                    aria-hidden="true">
+                    <ul role="list" class="grid-flow" data-spacing="small">
+                      <li>
+                        <a class="post-actions-link" href="javascript:void(0)">
+                          <i class="fa-solid fa-folder-open"></i>
+                          <span>Add to Collection</span>
+                        </a>
+                      </li>
+                      <li>
+                        <a class="post-actions-link" href="javascript:void(0)">
+                          <i class="fa-solid fa-eye"></i>
+                          <span>Show the Recipe</span>
+                        </a>
+                      </li>
+                      <li>
+                        <a class="post-actions-link" href="javascript:void(0)">
+                          <i class="fa-solid fa-user-plus"></i>
+                          <span>Follow the User</span>
+                        </a>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="swiper-slide post">
+              <img class="post-img" src="images/3-macaron.jpg" alt="recipe" />
+
+              <div class="post-body">
+                <img
+                  class="post-avatar"
+                  src="images/3-bella.png"
+                  alt="avatar" />
+                <div class="post-detail">
+                  <h2 class="post-name">Macaron</h2>
+                  <p class="post-author">Bella Smith</p>
+                </div>
+
+                <div class="post-actions">
+                  <a class="post-like" href="javascript:void(0)"
+                    ><i class="fas fa-heart"></i
+                  ></a>
+                  <button
+                    class="post-actions-controller"
+                    data-target="post3"
+                    aria-controls="post-actions-content"
+                    aria-expanded="false">
+                    <i class="fa-solid fa-ellipsis fa-2xl"></i>
+                  </button>
+                  <div
+                    class="post-actions-content"
+                    id="post3"
+                    data-visible="false"
+                    aria-hidden="true">
+                    <ul role="list" class="grid-flow" data-spacing="small">
+                      <li>
+                        <a class="post-actions-link" href="javascript:void(0)">
+                          <i class="fa-solid fa-folder-open"></i>
+                          <span>Add to Collection</span>
+                        </a>
+                      </li>
+                      <li>
+                        <a class="post-actions-link" href="javascript:void(0)">
+                          <i class="fa-solid fa-eye"></i>
+                          <span>Show the Recipe</span>
+                        </a>
+                      </li>
+                      <li>
+                        <a class="post-actions-link" href="javascript:void(0)">
+                          <i class="fa-solid fa-user-plus"></i>
+                          <span>Follow the User</span>
+                        </a>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="swiper-slide post">
+              <img
+                class="post-img"
+                src="images/4-cheesecake.jpg"
+                alt="recipe" />
+
+              <div class="post-body">
+                <img class="post-avatar" src="images/4-mia.png" alt="avatar" />
+                <div class="post-detail">
+                  <h2 class="post-name">Cheesecake</h2>
+                  <p class="post-author">Mia Dixon</p>
+                </div>
+
+                <div class="post-actions">
+                  <a class="post-like" href="javascript:void(0)"
+                    ><i class="fas fa-heart"></i
+                  ></a>
+                  <button
+                    class="post-actions-controller"
+                    data-target="post4"
+                    aria-controls="post-actions-content"
+                    aria-expanded="false">
+                    <i class="fa-solid fa-ellipsis fa-2xl"></i>
+                  </button>
+                  <div
+                    class="post-actions-content"
+                    id="post4"
+                    data-visible="false"
+                    aria-hidden="true">
+                    <ul role="list" class="grid-flow" data-spacing="small">
+                      <li>
+                        <a class="post-actions-link" href="javascript:void(0)">
+                          <i class="fa-solid fa-folder-open"></i>
+                          <span>Add to Collection</span>
+                        </a>
+                      </li>
+                      <li>
+                        <a class="post-actions-link" href="javascript:void(0)">
+                          <i class="fa-solid fa-eye"></i>
+                          <span>Show the Recipe</span>
+                        </a>
+                      </li>
+                      <li>
+                        <a class="post-actions-link" href="javascript:void(0)">
+                          <i class="fa-solid fa-user-plus"></i>
+                          <span>Follow the User</span>
+                        </a>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="swiper-slide post">
+              <img class="post-img" src="images/5-donuts.jpg" alt="recipe" />
+
+              <div class="post-body">
+                <img
+                  class="post-avatar"
+                  src="images/5-olivia.png"
+                  alt="avatar" />
+                <div class="post-detail">
+                  <h2 class="post-name">Donuts</h2>
+                  <p class="post-author">Olivia Martinez</p>
+                </div>
+
+                <div class="post-actions">
+                  <a class="post-like" href="javascript:void(0)"
+                    ><i class="fas fa-heart"></i
+                  ></a>
+                  <button
+                    class="post-actions-controller"
+                    data-target="post5"
+                    aria-controls="post-actions-content"
+                    aria-expanded="false">
+                    <i class="fa-solid fa-ellipsis fa-2xl"></i>
+                  </button>
+                  <div
+                    class="post-actions-content"
+                    id="post5"
+                    data-visible="false"
+                    aria-hidden="true">
+                    <ul role="list" class="grid-flow" data-spacing="small">
+                      <li>
+                        <a class="post-actions-link" href="javascript:void(0)">
+                          <i class="fa-solid fa-folder-open"></i>
+                          <span>Add to Collection</span>
+                        </a>
+                      </li>
+                      <li>
+                        <a class="post-actions-link" href="javascript:void(0)">
+                          <i class="fa-solid fa-eye"></i>
+                          <span>Show the Recipe</span>
+                        </a>
+                      </li>
+                      <li>
+                        <a class="post-actions-link" href="javascript:void(0)">
+                          <i class="fa-solid fa-user-plus"></i>
+                          <span>Follow the User</span>
+                        </a>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="swiper-slide post">
+              <img
+                class="post-img"
+                src="images/6-rolo-cheesecake.jpg"
+                alt="recipe" />
+
+              <div class="post-body">
+                <img
+                  class="post-avatar"
+                  src="images/6-benjamin.png"
+                  alt="avatar" />
+                <div class="post-detail">
+                  <h2 class="post-name">Rolo Cheesecake</h2>
+                  <p class="post-author">Benjamin Clark</p>
+                </div>
+
+                <div class="post-actions">
+                  <a class="post-like" href="javascript:void(0)"
+                    ><i class="fas fa-heart"></i
+                  ></a>
+                  <button
+                    class="post-actions-controller"
+                    data-target="post6"
+                    aria-controls="post-actions-content"
+                    aria-expanded="false">
+                    <i class="fa-solid fa-ellipsis fa-2xl"></i>
+                  </button>
+                  <div
+                    class="post-actions-content"
+                    id="post6"
+                    data-visible="false"
+                    aria-hidden="true">
+                    <ul role="list" class="grid-flow" data-spacing="small">
+                      <li>
+                        <a class="post-actions-link" href="javascript:void(0)">
+                          <i class="fa-solid fa-folder-open"></i>
+                          <span>Add to Collection</span>
+                        </a>
+                      </li>
+                      <li>
+                        <a class="post-actions-link" href="javascript:void(0)">
+                          <i class="fa-solid fa-eye"></i>
+                          <span>Show the Recipe</span>
+                        </a>
+                      </li>
+                      <li>
+                        <a class="post-actions-link" href="javascript:void(0)">
+                          <i class="fa-solid fa-user-plus"></i>
+                          <span>Follow the User</span>
+                        </a>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="swiper-scrollbar"></div>
+        </div>
+      </div>
+    </section>
+
+    <script src="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.js"></script>
+    <script src="main.js"></script>
+  </body>
+</html>
