@@ -27,6 +27,7 @@ This repository includes some great tricks with mini samples.
 | 04  | [Card Effect](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/card-effect)                                     |
 | 05  | [Neumorphic Slider](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/neumorphic-slider)                         |
 | 06  | [Responsive Slider with Scrollbar](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/responsive-slider-with-scrollbar)    |
+| 07  | [Background Slider with The Hero](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/background-slider-with-the-hero)    |
 
 <br>
 
