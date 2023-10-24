@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- Link Swiper's CSS -->
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.css" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Happy Halloween</title>
+  </head>
+  <body>
+    <section class="parallax">
+      <h2 id="title">Happy Halloween</h2>
+      <img src="images/left-side.png" id="leftside" alt="halloween" />
+      <img src="images/right-side.png" id="rightside" alt="halloween" />
+      <img src="images/moon.png" id="moon" alt="halloween" />
+      <img src="images/bottom.png" id="bottom" alt="halloween" />
+      <img src="images/left-pumkin.png" id="leftpumpkin" alt="halloween" />
+      <img src="images/right-pumpkin.png" id="rightpumpkin" alt="halloween" />
+    </section>
+
+    <section class="blog">
+      <h3>Activities</h2>
+
+      <!-- Swiper -->
+      <div
+        style="--swiper-pagination-color: #fff"
+        class="swiper mySwiper">
+        <div class="parallax-bg" data-swiper-parallax="-23%"></div>
+        <div class="swiper-wrapper">
+          <div class="swiper-slide">
+            <div class="content">
+              <div class="title" data-content="Ghastly Ghost Tours" data-swiper-parallax="-500">
+                Ghastly Ghost Tours
+              </div>
+              <div class="text" data-swiper-parallax="-300" data-swiper-parallax-opacity="0">
+                <p>
+                  Explore the dark history of Ravenwood Manor with guided tours
+                  through its haunted halls. Who knows what you might encounter
+                  in the shadowy corners?
+                </p>
+              </div>
+            </div>
+            <div class="image" data-swiper-parallax="-200">
+              <img src="ai/ghastly-ghost-tours-3.png" alt="" />
+            </div>
+          </div>
+
+          <div class="swiper-slide">
+            <div class="content">
+              <div class="title" data-content="Wicked Costume Contest" data-swiper-parallax="-500">
+                Wicked Costume Contest
+              </div>
+              <div class="text" data-swiper-parallax="-300" data-swiper-parallax-opacity="0">
+                <p>
+                  Dress to impress in your most scary, creative, or weird
+                  Halloween costume. Prizes will be awarded to the best-dressed
+                  attendees.
+                </p>
+              </div>
+            </div>
+            <div class="image" data-swiper-parallax="-200">
+              <img src="ai/wicked-costume-contest-1.png" alt="" />
+            </div>
+          </div>
+
+          <div class="swiper-slide">
+            <div class="content">
+              <div class="title" data-content="Spooky Dance Floor" data-swiper-parallax="-500">
+                Spooky Dance Floor
+              </div>
+              <div class="text" data-swiper-parallax="-300" data-swiper-parallax-opacity="0">
+                <p>
+                  Dance the night away to hauntingly good tunes from our live
+                  DJ, under the dim glow of scary candlelight.
+                </p>
+              </div>
+            </div>
+            <div class="image" data-swiper-parallax="-200">
+              <img src="ai/spooky-dance-floor-1.png" alt="" />
+            </div>
+          </div>
+
+          <div class="swiper-slide">
+            <div class="content">
+              <div class="title" data-content="Sinister Snacks" data-swiper-parallax="-500">
+                Sinister Snacks
+              </div>
+              <div class="text" data-swiper-parallax="-300" data-swiper-parallax-opacity="0">
+                <p>
+                  Satisfy your taste buds with a variety of spooky-themed snacks
+                  and refreshments at our chillingly delightful food stalls.
+                </p>
+              </div>
+            </div>
+            <div class="image" data-swiper-parallax="-200">
+              <img src="ai/sinister-snacks-1.png" alt="" />
+            </div>
+          </div>
+
+          <div class="swiper-slide">
+            <div class="content">
+              <div class="title" data-content="Scary Movie Screening" data-swiper-parallax="-500">
+                Scary Movie Screening
+              </div>
+              <div class="text" data-swiper-parallax="-300" data-swiper-parallax-opacity="0">
+                <p>
+                  Sit back and relax in our indoor cinema as we showcase classic
+                  horror films for your enjoyment.
+                </p>
+              </div>
+            </div>
+            <div class="image" data-swiper-parallax="-200">
+              <img src="ai/scary-movie-1.png" alt="" />
+            </div>
+          </div>
+
+          <div class="swiper-slide">
+            <div class="content">
+              <div class="title" data-content="Pumpkin Carving" data-swiper-parallax="-500">
+                Pumpkin Carving
+              </div>
+              <div class="text" data-swiper-parallax="-300" data-swiper-parallax-opacity="0">
+                <p>
+                  Get your hands dirty and create your own Jack-O'-Lantern
+                  masterpiece. We provide the pumpkins and carving tools.
+                </p>
+              </div>
+            </div>
+            <div class="image" data-swiper-parallax="-200">
+              <img src="ai/pumpkin-carving.png" alt="" />
+            </div>
+          </div>
+        </div>
+        <div class="swiper-pagination"></div>
+      </div>
+
+      <p>
+        Join us for a spine-tingling night of Halloween horrors at the Haunted
+        Mansion Spectacular! Ravenwood Manor, a historic and scary mansion, will
+        open its doors for an unforgettable night of thrills and chills.
+      </p>
+      <button class="btn">
+        <span>buy ticket</span>
+      </button>
+    </section>
+
+    <!-- Swiper JS -->
+    <script src="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/ScrollTrigger.min.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>
