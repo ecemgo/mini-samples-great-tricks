@@ -21,6 +21,7 @@
 
 - [Freepik](https://www.freepik.com/free-vector/gradient-halloween-background_30592965.htm#position=36) - illustration
 - [Greensock](https://greensock.com/docs/v3/Installation?checked=core,scrollTrigger) - for animation
+- [Swiper](https://swiperjs.com/swiper-api#parallax) - for slider
 
 ### Contact Me
 
