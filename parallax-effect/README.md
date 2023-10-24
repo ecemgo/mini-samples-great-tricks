@@ -14,9 +14,7 @@
 
 ### Screenshot
 
-<div align="left">
-<img src="https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/fabeae46-7e3e-4489-85a1-b3b195f03b2e" title="parallax effect" alt="parallax effect" width="820" height="500"/>
-</div>
+https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/58129c6f-69c9-49ba-89ec-c55302bb6aa5
 
 ### Useful Resources
 
