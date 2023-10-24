@@ -14,7 +14,7 @@
 
 ### Screenshot
 
-https://github.com/ecemgo/halloween-parallax/assets/13468728/27b46dc9-2537-4ffa-ad4b-9de1af4248fb
+[https://github.com/ecemgo/halloween-parallax/assets/13468728/27b46dc9-2537-4ffa-ad4b-9de1af4248fb](https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/56e26361-24b4-482d-bd4f-9e5fc8f9a1ed)
 
 ### Useful Resources
 
