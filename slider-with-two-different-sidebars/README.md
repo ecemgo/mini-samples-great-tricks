@@ -14,8 +14,9 @@
 ### Screenshot
 
 <div align="left">
-<h4>Some Backgrounds from the Slider</h4>
-<img src="https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/11b71f4d-6606-41f6-82cf-1297709590fd" title="slider" alt="slider" width="850" height="500"/>
+<img src="https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/8ba03147-ba88-47c7-87b2-818d17c34bd7" title="slider" alt="slider" width="850" height="500"/>
+<img src="https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/8a0de57a-0dbe-4542-ae0c-3d34f5db0a94" title="slider" alt="slider" width="850" height="500"/>
+<img src="https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/a5427d76-708d-468c-95df-72ff67bf0312" title="slider" alt="slider" width="850" height="500"/>
 </div>
 
 ### Useful Resources
