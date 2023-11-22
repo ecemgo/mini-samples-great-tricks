@@ -10,7 +10,7 @@ This repository includes some great tricks with mini samples.
 ![Swiper](https://img.shields.io/badge/swiper%20js-4287F5?style=for-the-badge&logo=swiper&logoColor=white)&nbsp;
 ![ScrollReveal](https://img.shields.io/badge/scrollreveal-8B49B8?style=for-the-badge&logo=scrollreveal&logoColor=white)&nbsp;
 ![Green Sock](https://img.shields.io/badge/greensock-88CE02?style=for-the-badge&logo=greensock&logoColor=white)&nbsp;
-![Figma](https://img.shields.io/badge/figma-AE4DFF.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
+![Figma](https://img.shields.io/badge/figma-6E12C4.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 
 <!--
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
@@ -80,9 +80,10 @@ This repository includes some great tricks with mini samples.
 | :-: | :------------------------------------------------------------------------------------------------------------------- |
 | 01  | [Fitness App Dashboard](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/fitness-app-dashboard)         |
 
+<br>
 
 ### Scroll Animation
 
-|  #  | Samples                                                                                                                          |
-| :-: | :------------------------------------------------------------------------------------------------------------------------------- |
-| 01  | [Collage Art | Scroll Animation and Lightbox](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/collage-art)         |
+|  #  | Samples                                                                                                                        |
+| :-: | :----------------------------------------------------------------------------------------------------------------------------- |
+| 01  | [Collage Art Scroll Animation and Lightbox](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/collage-art)         |
