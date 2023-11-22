@@ -13,12 +13,6 @@
 
 https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/8da92c8c-e1d4-4519-a3c3-bd6fccf6d802
 
-### Screenshot
-
-<div align="left">
-<img src="https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/df3c2a61-75d2-4f62-9dd7-afffce7328e1" title="slider" alt="slider" width="850" height="500"/>
-</div>
-
 ### Useful Resources
 
 - [ScrollReveal JS](https://scrollrevealjs.org/) - scroll animation
