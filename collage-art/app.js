@@ -1,5 +1,3 @@
-// Resource: https://creator.nightcafe.studio/game/1ueLhDdzQU9K9eHH9mWf
-
 // ScrollReveal JS
 
 ScrollReveal({ distance: "50px" });
