@@ -7,7 +7,7 @@
 ### Screenshot
 
 <div align="left">
-<img src="screenshot.png" title="card hover effect" alt="card hover effect" width="600" height="400"/>
+<img src="screenshot.png" title="card hover effect" alt="card hover effect" width="660" height="800"/>
 </div>
 
 ### Useful Resources
