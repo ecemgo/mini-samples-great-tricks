@@ -13,7 +13,8 @@
 - [Codepen](https://codepen.io/ecemgo/pen/KKJLjWd)
 - [YouTube](https://youtu.be/h3CJVEHapuY) 
 
-### Video
+
+### Intro
 
 https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/cb66a85e-eca0-423e-9f79-d77f9021eb4c
 
