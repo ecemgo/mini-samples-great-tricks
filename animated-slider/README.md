@@ -11,12 +11,11 @@
 ### Link
 
 - [Codepen](https://codepen.io/ecemgo/pen/KKJLjWd)
+- [YouTube](https://youtu.be/h3CJVEHapuY) 
 
-### Screenshot
+### Video
 
-<div align="left">
-<img src="https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/138c84e4-55a3-4d99-9917-a335633f4f51" title="slider" alt="slider" width="850" height="500"/>
-</div>
+https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/cb66a85e-eca0-423e-9f79-d77f9021eb4c
 
 ### Useful Resources
 
