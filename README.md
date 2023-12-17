@@ -33,6 +33,7 @@ This repository includes some great tricks with mini samples.
 | 06  | [Responsive Slider with Scrollbar](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/responsive-slider-with-scrollbar)    |
 | 07  | [Background Slider with The Hero](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/background-slider-with-the-hero)    |
 | 08  | [Slider with Two Different Sidebars](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/slider-with-two-different-sidebars)    |
+| 09  | [Animated Slider](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/animated-slider)    |
 
 <br>
 
