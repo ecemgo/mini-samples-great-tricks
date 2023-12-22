@@ -1,46 +1,50 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito:wght@300;400;500;600;700;800&display=swap");
+
 *,
 *::before,
 *::after {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  font-family: "Nunito", sans-serif;
 }
 
 img {
-  max-width: 100%;
+  width: 100%;
+  height: 100%;
 }
 
 body {
-  min-height: 100vh;
+  position: relative;
   display: flex;
   justify-content: center;
   align-items: center;
+  min-height: 100vh;
   background: #222;
-  font-family: "Lato", sans-serif;
 }
 
 main {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
+  place-items: center;
   gap: 30px;
-  padding: 40px 120px; /* padding can be increased or decreased depending on the screen size */
+  padding: 40px 80px;
 }
 
 .card {
   position: relative;
   display: flex;
   align-items: flex-end;
-  width: min(100%, 380px); /* width can be set depending on the screen size */
+  width: min(95%, 400px);
   height: 500px;
-  padding: 30px 25px;
-  background: #fff;
+  padding: 30px;
   box-shadow: 0px 7px 10px rgba(0, 0, 0, 0.5);
+  border-radius: 25px;
   transition: all 0.5s ease;
-  border-radius: 45px;
 }
 
 .card:hover {
-  transform: translateY(20px);
+  transform: translateY(10px);
 }
 
 .card:after {
@@ -48,31 +52,28 @@ main {
   position: absolute;
   top: 0;
   left: 0;
-  display: block;
   width: 100%;
   height: 100%;
   background: linear-gradient(
-    to bottom,
-    rgba(0, 176, 155, 0.5),
-    rgba(150, 201, 61, 1)
+    180deg,
+    rgba(59, 72, 164, 0.6) 1%,
+    rgba(94, 186, 180, 0.9) 98%
   );
   transition: all 0.5s;
   opacity: 0;
-  border-radius: 40px;
+  border-radius: 20px;
 }
 
 .card:hover:after {
   opacity: 1;
 }
 
-.card > img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
+.card img {
   position: absolute;
+  object-fit: cover;
   top: 0;
   left: 0;
-  border-radius: 40px;
+  border-radius: 20px;
 }
 
 .card .info {
@@ -80,39 +81,70 @@ main {
   z-index: 3;
   color: #fff;
   opacity: 0;
-  transform: translateY(30px);
+  transform: translateY(40px);
   transition: all 0.5s;
 }
 
 .card:hover .info {
   opacity: 1;
-  transform: translateY(0px);
+  transform: translateY(0);
 }
 
-.card .info h1 {
-  font-size: 1.4rem;
-  margin: 0;
+.info h1 {
+  font-size: clamp(1.3rem, 3vw, 1.5rem);
 }
 
-.card .info p {
-  letter-spacing: 1px;
-  font-size: 0.9rem;
-  margin: 10px 0 25px;
-  line-height: 130%;
+.info p {
+  font-size: clamp(0.9rem, 3vw, 1rem);
+  font-weight: 500;
+  margin: 24px 0 16px;
+  line-height: 1.3;
+  text-align: justify;
 }
 
-.card .info .btn {
-  text-decoration: none;
-  padding: 0.5rem 1rem;
+button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 8px 14px;
   background: #fff;
   color: #4b5563;
-  font-size: 0.85rem;
-  font-weight: bold;
-  border-radius: 50px;
+  font-size: 0.9rem;
+  font-weight: 700;
+  outline: 0;
+  border: 0;
+  border-radius: 5px;
+  transform: translateY(0);
+  transition: color 0.3s ease-in, transform 0.4s linear;
   cursor: pointer;
-  transition: all 0.3s ease-in;
 }
 
-.card .info .btn:hover {
-  box-shadow: 0px 7px 10px rgba(0, 0, 0, 0.5);
+button:hover {
+  color: rgba(94, 186, 180, 1);
+  transform: translateY(3px);
+}
+
+.particles {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+}
+
+@media (max-width: 930px) {
+  main {
+    grid-template-columns: repeat(1, 1fr);
+    padding: 60px 80px;
+  }
+}
+
+@media (max-width: 400px) {
+  main {
+    padding: 60px 30px;
+  }
+
+  .card {
+    height: 400px;
+    padding: 20px;
+  }
 }
