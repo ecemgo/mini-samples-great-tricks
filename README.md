@@ -10,7 +10,7 @@ This repository includes some great tricks with mini samples.
 ![Swiper](https://img.shields.io/badge/swiper%20js-4287F5?style=for-the-badge&logo=swiper&logoColor=white)&nbsp;
 ![Green Sock](https://img.shields.io/badge/greensock-88CE02?style=for-the-badge&logo=greensock&logoColor=white)&nbsp;
 ![ScrollReveal](https://img.shields.io/badge/scrollreveal-8B49B8?style=for-the-badge&logo=scrollreveal&logoColor=white)&nbsp;
-![Particle JS](https://img.shields.io/badge/particle%20js-10135E?style=for-the-badge&logo=particlejs&logoColor=white)&nbsp;
+![Particles JS](https://img.shields.io/badge/particles%20js-10135E?style=for-the-badge&logo=particlejs&logoColor=white)&nbsp;
 ![Figma](https://img.shields.io/badge/figma-6E12C4.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 
 <!--
