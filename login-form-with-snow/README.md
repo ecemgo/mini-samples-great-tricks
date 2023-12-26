@@ -13,7 +13,7 @@
 ### Screenshot
 
 <div align="left">
-<img src="https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/9e880f72-3874-4758-84c4-c5d04e1d4f16" title="neumorphic slider" alt="neumorphic slider" width="800" height="500"/>
+<img src="https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/96d4ee8b-5c9d-488f-adba-5754b564bc11" title="neumorphic slider" alt="neumorphic slider" width="800" height="500"/>
 </div>
 
 ### Useful Resources
