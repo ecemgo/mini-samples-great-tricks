@@ -7,8 +7,8 @@
 ### Screenshot
 
 <div align="left">
-<img src="https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/969edd55-e63b-4126-bafc-c1e22fa4d8e1" title="card hover effect" alt="card hover effect" width="650" height="400"/>
-<img src="https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/2f0e02dd-01b5-4b11-b962-06439c85d861" title="card hover effect" alt="card hover effect" width="650" height="400"/>
+<img src="https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/969edd55-e63b-4126-bafc-c1e22fa4d8e1" title="card hover effect" alt="card hover effect" width="700" height="400"/>
+<img src="https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/2f0e02dd-01b5-4b11-b962-06439c85d861" title="card hover effect" alt="card hover effect" width="700" height="400"/>
 </div>
 
 
