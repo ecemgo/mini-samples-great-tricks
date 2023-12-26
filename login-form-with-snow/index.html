@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Login Form with Snow</title>
+  </head>
+  <body>
+    <div id="particles-js" class="snow"></div>
+
+    <main>
+      <div class="left-side"></div>
+
+      <div class="right-side">
+        <form>
+          <div class="btn-group">
+            <button class="btn">
+              <img class="logo" src="images/google-logo.png" alt="" />
+              <span>Sign in with Google</span>
+            </button>
+            <button class="btn">
+              <img class="logo" src="images/apple-logo.png" alt="" />
+              <span>Sign in with Apple</span>
+            </button>
+          </div>
+
+          <div class="or">OR</div>
+
+          <label for="email">Email</label>
+          <input type="text" placeholder="Enter Email" name="email" required />
+
+          <label for="password">Password</label>
+          <input
+            type="password"
+            placeholder="Enter Password"
+            name="password"
+            required />
+
+          <button type="submit" class="login-btn">Sign in</button>
+          <div class="links">
+            <a href="#">Forgot password?</a>
+            <a href="#">Do not have an account?</a>
+          </div>
+        </form>
+      </div>
+    </main>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/particles.js/2.0.0/particles.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>
