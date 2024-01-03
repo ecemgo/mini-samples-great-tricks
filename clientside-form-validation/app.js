@@ -3,98 +3,114 @@ const username = document.getElementById("username");
 const email = document.getElementById("email");
 const password = document.getElementById("password");
 const confirmpassword = document.getElementById("confirmpassword");
-const header = document.querySelector(".header");
+const title = document.querySelector(".title");
 const button = document.querySelector("button");
 const message = document.querySelector(".message");
 
-//! submit the form when clicking the button
+//! Event listeners for real-time input validation
+username.addEventListener("input", validateUsername);
+email.addEventListener("input", validateEmail);
+password.addEventListener("input", validatePassword);
+confirmpassword.addEventListener("input", validateConfirmPassword);
+
+//! Event listener for form submission
 form.addEventListener("submit", (e) => {
   e.preventDefault();
 
   if (
-    username.value.trim() === "" ||
-    email.value.trim() === "" ||
-    password.value.trim() === "" ||
-    confirmpassword.value.trim() !== password.value.trim()
+    validateUsername() &&
+    validateEmail() &&
+    validatePassword() &&
+    validateConfirmPassword()
   ) {
-    checkInputs();
-  } else {
     submittedForm();
   }
 });
 
-//! check whether inputs are empty or not
-function checkInputs() {
+//! Validation functions
+function validateUsername() {
   const usernameValue = username.value.trim();
-  const emailValue = email.value.trim();
-  const passwordValue = password.value.trim();
-  const confirmpasswordValue = confirmpassword.value.trim();
-
   if (usernameValue === "") {
     setErrorFor(username, "Username cannot be blank");
+    return false;
   } else {
     setSuccessFor(username);
+    return true;
   }
+}
 
+function validateEmail() {
+  const emailValue = email.value.trim();
   if (emailValue === "") {
     setErrorFor(email, "Email cannot be blank");
+    return false;
   } else if (!isEmail(emailValue)) {
     setErrorFor(email, "Email is not valid");
+    return false;
   } else {
     setSuccessFor(email);
+    return true;
   }
+}
 
+function validatePassword() {
+  const passwordValue = password.value.trim();
   if (passwordValue === "") {
     setErrorFor(password, "Password cannot be blank");
+    return false;
   } else {
     setSuccessFor(password);
+    return true;
   }
+}
 
+function validateConfirmPassword() {
+  const passwordValue = password.value.trim();
+  const confirmpasswordValue = confirmpassword.value.trim();
   if (confirmpasswordValue === "") {
-    setErrorFor(confirmpassword, "Password cannot be blank");
+    setErrorFor(confirmpassword, "Confirm Password cannot be blank");
+    return false;
   } else if (passwordValue !== confirmpasswordValue) {
     setErrorFor(confirmpassword, "Password does not match!");
+    return false;
   } else {
     setSuccessFor(confirmpassword);
+    return true;
   }
 }
 
-//! add error class to the form-control
+//! Helper functions
 function setErrorFor(input, message) {
-  const formControl = input.parentElement; // .form-control
-  const small = formControl.querySelector("small");
+  const inputControl = input.parentElement;
+  const small = inputControl.querySelector("small");
 
   small.innerText = message;
-  formControl.className = "form-control error";
-  formControl.style.paddingBottom = "20px";
-  formControl.style.marginBottom = "10px";
+  inputControl.classList.remove("success");
+  inputControl.classList.add("error");
+  inputControl.style.paddingBottom = "20px";
+  inputControl.style.marginBottom = "14px";
 }
 
-//! add success class to the form-control
 function setSuccessFor(input) {
-  const formControl = input.parentElement;
-  formControl.className = "form-control success";
-  formControl.style.paddingBottom = "0";
-  formControl.style.marginBottom = "20px";
+  const inputControl = input.parentElement;
+
+  inputControl.classList.remove("error");
+  inputControl.classList.add("success");
+  inputControl.style.paddingBottom = "0";
+  inputControl.style.marginBottom = "20px";
 }
 
-//! check email with Regex
+//! Checking email
 function isEmail(email) {
-  return /^(([^<>()\[\]\\.,;:\s@"]+(\.[^<>()\[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/.test(
-    email
-  );
+  return /^[a-zA-Z0-9._-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,4}$/.test(email);
 }
 
-//! show the message of 'submitted'
+// https://emaillistvalidation.com/blog/email-validation-in-javascript-using-regular-expressions-the-ultimate-guide/
+
+//! Showing the 'submitted' message
 function submittedForm() {
-  header.classList.add("hidden");
+  title.classList.add("hidden");
   form.classList.add("hidden");
   message.classList.remove("hidden");
-  ani();
-  setTimeout("location.reload(true);", 3000);
-}
-
-//! add animation to the message
-function ani() {
-  message.classList.add("fade-in");
+  setTimeout(() => location.reload(true), 2500);
 }
