@@ -35,6 +35,7 @@ This repository includes some great tricks with mini samples.
 | 07  | [Background Slider with The Hero](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/background-slider-with-the-hero)    |
 | 08  | [Slider with Two Different Sidebars](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/slider-with-two-different-sidebars)    |
 | 09  | [Animated Slider](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/animated-slider)    |
+| 10  | [Polaroid Card Slider](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/polaroid-card-slider)    |
 
 <br>
 
