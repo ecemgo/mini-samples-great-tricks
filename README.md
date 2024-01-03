@@ -52,7 +52,7 @@ This repository includes some great tricks with mini samples.
 |  #  | Samples                                                                                                                |
 | :-: | :--------------------------------------------------------------------------------------------------------------------- |
 | 01  | [Animated Login Form](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/animated-login-form)               |
-| 02  | [Clientside Form Validation](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/clientside-form-validation) |
+| 02  | [Form Validation](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/clientside-form-validation) |
 | 03  | [Login Form with Snow](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/login-form-with-snow) |
 
 <br>

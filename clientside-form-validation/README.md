@@ -1,4 +1,4 @@
-## <img src="https://user-images.githubusercontent.com/13468728/233831804-0f5c7ee5-d654-4c13-9c77-a5bd6dc4fe74.jpg" title="great tricks" alt="great tricks" width="50" height="50"/> Client-side Form Validation
+## <img src="https://user-images.githubusercontent.com/13468728/233831804-0f5c7ee5-d654-4c13-9c77-a5bd6dc4fe74.jpg" title="great tricks" alt="great tricks" width="50" height="50"/> Form Validation
 
 ### Link
 
@@ -7,11 +7,10 @@
 ### Screenshot
 
 <div align="left">
-<h3 align="left">Form</h3>
-<img src="https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/1d5ef77a-62eb-4fda-bb11-ab8cb997b7f8" title="clientside form" alt="clientside form" width="800" height="500"/>
-<h3 align="left">Show Message</h3>
-<img src="https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/a453eeb9-ecfc-4c2b-8441-907baf1ac3c8" title="clientside form" alt="clientside form" width="800" height="500"/>
+<img src="https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/850293f4-81ba-4a68-b68b-212c76e32a16" title="clientside form" alt="clientside form" width="800" height="500"/>
+<img src="https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/a690a4e5-4080-4771-8813-f4ec1d59bece" title="clientside form" alt="clientside form" width="800" height="500"/>
 </div>
+
 
 ### Useful Resources
 
