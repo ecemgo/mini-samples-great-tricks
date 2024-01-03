@@ -1,0 +1,67 @@
+@import url("https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap");
+
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Permanent Marker", cursive;
+}
+
+section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  width: 100%;
+  background: #fff;
+  background-image: radial-gradient(
+      at 46% 47%,
+      hsl(267, 50%, 84%) 0,
+      transparent 50%
+    ),
+    radial-gradient(at 28% 71%, hsl(312, 73%, 85%) 0, transparent 50%),
+    radial-gradient(at 66% 75%, hsl(146, 68%, 88%) 0, transparent 50%);
+}
+
+.swiper {
+  width: 100%;
+  padding: 50px 0;
+}
+
+.swiper-slide {
+  display: grid;
+  grid-template-rows: 4fr 1fr;
+  max-width: 350px;
+  padding: 15px;
+  border-radius: 10px;
+  background-color: #eaeaea;
+  box-shadow: 0 0.5px 0 1px rgba(255, 255, 255, 0.2) inset,
+    0 1px 0 0 rgba(255, 255, 255, 0.6) inset, 0 4px 16px rgba(0, 0, 0, 0.1);
+  user-select: none;
+}
+
+.swiper-slide img {
+  width: 100%;
+  aspect-ratio: 1/1;
+  object-fit: cover;
+  border-radius: 5px;
+  filter: saturate(0.9) contrast(0.85) brightness(1.05);
+  margin-bottom: 14px;
+}
+
+.title {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-transform: uppercase;
+  transform: rotate(-5deg);
+}
+
+.swiper-pagination {
+  --swiper-pagination-color: #7f31ac;
+  --swiper-pagination-bullet-size: 10px;
+  --swiper-pagination-bullet-horizontal-gap: 5px;
+}
