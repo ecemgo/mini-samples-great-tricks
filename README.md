@@ -21,21 +21,19 @@ This repository includes some great tricks with mini samples.
 
 <br>
 
-
 ### Slider
 
-|  #  | Samples                                                                                                                      |
-| :-: | :--------------------------------------------------------------------------------------------------------------------------- |
-| 01  | [Testimonial Slider](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/testimonial-slider-v1)                    |
-| 02  | [Responsive Draggable Image Slider](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/draggable-image-slider)    |
-| 03  | [Image Slider](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/image-slider)                                   |
-| 04  | [Card Effect](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/card-effect)                                     |
-| 05  | [Neumorphic Slider](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/neumorphic-slider)                         |
-| 06  | [Responsive Slider with Scrollbar](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/responsive-slider-with-scrollbar)    |
-| 07  | [Background Slider with The Hero](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/background-slider-with-the-hero)    |
-| 08  | [Slider with Two Different Sidebars](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/slider-with-two-different-sidebars)    |
-| 09  | [Animated Slider](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/animated-slider)    |
-| 10  | [Polaroid Card Slider](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/polaroid-card-slider)    |
+|  #  | Samples                                                                                                                                |
+| :-: | :------------------------------------------------------------------------------------------------------------------------------------- |
+| 01  | [Testimonial Slider](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/testimonial-slider-v1)                              |
+| 02  | [Responsive Draggable Image Slider](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/draggable-image-slider)              |
+| 03  | [Image Slider](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/image-slider)                                             |
+| 04  | [Card Effect](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/card-effect)                                               |
+| 05  | [Neumorphic Slider](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/neumorphic-slider)                                   |
+| 06  | [Responsive Slider with Scrollbar](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/responsive-slider-with-scrollbar)     |
+| 07  | [Background Slider with The Hero](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/background-slider-with-the-hero)       |
+| 08  | [Slider with Two Different Sidebars](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/slider-with-two-different-sidebars) |
+| 09  | [Animated Slider](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/animated-slider)                                       |
 
 <br>
 
@@ -50,11 +48,11 @@ This repository includes some great tricks with mini samples.
 
 ### Login Form
 
-|  #  | Samples                                                                                                                |
-| :-: | :--------------------------------------------------------------------------------------------------------------------- |
-| 01  | [Animated Login Form](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/animated-login-form)               |
+|  #  | Samples                                                                                                     |
+| :-: | :---------------------------------------------------------------------------------------------------------- |
+| 01  | [Animated Login Form](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/animated-login-form)    |
 | 02  | [Form Validation](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/clientside-form-validation) |
-| 03  | [Login Form with Snow](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/login-form-with-snow) |
+| 03  | [Login Form with Snow](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/login-form-with-snow)  |
 
 <br>
 
@@ -81,14 +79,14 @@ This repository includes some great tricks with mini samples.
 
 ### Dashboard
 
-|  #  | Samples                                                                                                              |
-| :-: | :------------------------------------------------------------------------------------------------------------------- |
-| 01  | [Fitness App Dashboard](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/fitness-app-dashboard)         |
+|  #  | Samples                                                                                                      |
+| :-: | :----------------------------------------------------------------------------------------------------------- |
+| 01  | [Fitness App Dashboard](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/fitness-app-dashboard) |
 
 <br>
 
 ### Scroll Animation
 
-|  #  | Samples                                                                                                                        |
-| :-: | :----------------------------------------------------------------------------------------------------------------------------- |
-| 01  | [Collage Art - Scroll Animation and Lightbox](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/collage-art)         |
+|  #  | Samples                                                                                                                  |
+| :-: | :----------------------------------------------------------------------------------------------------------------------- |
+| 01  | [Collage Art - Scroll Animation and Lightbox](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/collage-art) |
