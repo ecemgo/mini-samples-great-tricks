@@ -20,7 +20,7 @@ https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/cb66a85e-eca
 
 ### Useful Resources
 
-- [Swipe JS](https://swiperjs.com/demos#default) - slider
+- [Swiper JS](https://swiperjs.com/demos#default) - slider
 - [Particle JS](https://github.com/VincentGarreau/particles.js) - particle.js (github)
 - [Particle JS Demo](https://codepen.io/VincentGarreau/pen/bGxvQd) - demo (codepen)
 
