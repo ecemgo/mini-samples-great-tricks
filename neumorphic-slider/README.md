@@ -19,7 +19,7 @@
 
 ### Useful Resources
 
-- [Swiper](https://swiperjs.com/demos#autoplay) - slider
+- [Swiper JS](https://swiperjs.com/demos#autoplay) - slider
 
 ### Contact Me
 
