@@ -23,7 +23,7 @@
 
 ### Useful Resources
 
-- [Swiper](https://swiperjs.com/demos#default) - slider
+- [Swiper JS](https://swiperjs.com/demos#default) - slider
 
 ### Contact Me
 
