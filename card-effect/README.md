@@ -19,7 +19,7 @@
 
 ### Useful Resources
 
-- [Swiper](https://swiperjs.com/swiper-api#cards-effect) - slider
+- [Swiper JS](https://swiperjs.com/swiper-api#cards-effect) - slider
 
 ### Contact Me
 
