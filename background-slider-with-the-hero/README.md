@@ -10,6 +10,8 @@
 ### Link
 
 - [Codepen](https://codepen.io/ecemgo/pen/QWzeQOK)
+- [Youtube](https://youtu.be/NztB6jD_AG8)
+  
 
 ### Screenshot
 
