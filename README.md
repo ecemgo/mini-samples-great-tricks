@@ -15,7 +15,6 @@ This repository includes some great tricks with mini samples.
 
 <!--
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
-![React](https://img.shields.io/badge/-React-%23404d59?style=for-the-badge&logo=react)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)&nbsp;
 -->
 
@@ -93,6 +92,7 @@ This repository includes some great tricks with mini samples.
 | :-: | :----------------------------------------------------------------------------------------------------------------- |
 | 01  | [Octoberfest Landing Page](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/octoberfest-landing-page) |
 | 02  | [Mentorship Landing Page](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/mentorship-landing-page)   |
+| 02  | [Retrobeats Landing Page](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/retrobeats-landing-page)   |
 
 <br>
 
