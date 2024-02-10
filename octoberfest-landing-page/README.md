@@ -10,6 +10,11 @@
 
 - [Codepen](https://codepen.io/ecemgo/pen/GRPBYpb?editors=0100)
 
+### Video
+
+https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/c8dbfb76-6c62-4d82-bdb8-1b3fe55fd05d
+
+
 ### Contact Me
 
 - Website - [ecemgo.com](https://www.ecemgo.com/)
