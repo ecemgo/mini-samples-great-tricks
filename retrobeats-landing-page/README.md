@@ -14,7 +14,7 @@
 
 ### Screenshot
 
-https://github.com/ecemgo/retrobeats-landing-page/assets/13468728/651d0e1e-dc55-43d2-8f3e-3bf0ad05e378
+https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/651d0e1e-dc55-43d2-8f3e-3bf0ad05e378
 
 ### Useful Resources
 
