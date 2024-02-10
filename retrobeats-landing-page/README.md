@@ -18,7 +18,7 @@ https://github.com/ecemgo/retrobeats-landing-page/assets/13468728/651d0e1e-dc55-
 
 ### Useful Resources
 
-- [Greensock](https://greensock.com/docs/v3/Installation?checked=core,scrollTrigger) - for animation
+- [Greensock](https://greensock.com/docs/v3/Installation?checked=core,scrollTrigger) - for scroll trigger
 - [Swiper](https://swiperjs.com/swiper-api#coverflow-effect) - for slider
 
 ### Contact Me
