@@ -92,6 +92,7 @@ This repository includes some great tricks with mini samples.
 |  #  | Samples                                                                                                            |
 | :-: | :----------------------------------------------------------------------------------------------------------------- |
 | 01  | [Octoberfest Landing Page](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/octoberfest-landing-page) |
+| 02  | [Mentorship Landing Page](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/mentorship-landing-page)   |
 
 <br>
 
