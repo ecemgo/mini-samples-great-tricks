@@ -10,10 +10,6 @@
 
 - [Codepen](https://codepen.io/ecemgo/pen/GRPBYpb?editors=0100)
 
-### Screenshot
-
-https://github.com/ecemgo/octoberfest-landing-page/assets/13468728/4fe0ae00-70d6-4ee6-8e8a-4f81ed12c8b9
-
 ### Contact Me
 
 - Website - [ecemgo.com](https://www.ecemgo.com/)
