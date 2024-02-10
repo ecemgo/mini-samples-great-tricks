@@ -1,11 +1,12 @@
 var swiper = new Swiper(".swiper", {
-  navigation: {
-    nextEl: ".button-next",
-    prevEl: ".button-prev",
-  },
   effect: "slide",
   speed: 900,
   loop: true,
+  mousewheel: {
+    invert: false,
+    thresholdDelta: 50,
+    sensitivity: 1,
+  },
 });
 
 particlesJS("particles-js", {

@@ -65,7 +65,7 @@ body {
 
 .content p {
   font-family: inherit;
-  font-size: clamp(1.1rem, 5vw, 0.9rem);
+  font-size: clamp(1.1rem, 3vw, 0.9rem);
   font-weight: 400;
   line-height: 1.5;
   margin-bottom: 30px;
@@ -102,7 +102,7 @@ body {
 }
 
 .item {
-  max-width: 200px;
+  max-width: 180px;
   aspect-ratio: 4/3;
   border-radius: 6px;
   pointer-events: none;
@@ -111,7 +111,7 @@ body {
 
 .swiper-slide-active .item {
   animation: fadeIn 0.5s linear 1 forwards;
-  animation-delay: calc(1.4s + (0.15s * var(--i)));
+  animation-delay: calc(1.4s + (0.1s * var(--i)));
 }
 
 @keyframes fadeIn {
@@ -198,39 +198,6 @@ body {
   pointer-events: none;
 }
 
-.nav-carousel {
-  position: absolute;
-  bottom: 30px;
-  right: 40px;
-  display: flex;
-  align-items: center;
-  gap: 16px;
-  transform: scale(1);
-  z-index: 3;
-}
-
-ion-icon {
-  font-size: clamp(1.5rem, 3vw, 2.1rem);
-  color: #f7ebff;
-}
-
-.button-prev,
-.button-next {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  border: 0;
-  border-radius: 14px;
-  padding: 0.6rem;
-  transition: transform 0.3s ease-in;
-  cursor: pointer;
-}
-
-.button-prev:hover,
-.button-next:hover {
-  transform: scale(1.05);
-}
-
 .swiper-slide .btn {
   transform: translateY(-30px);
   opacity: 0;
@@ -275,11 +242,6 @@ ion-icon {
   .btn {
     padding: 0.8rem 1.5rem;
   }
-
-  .button-prev,
-  .button-next {
-    padding: 0.5rem;
-  }
 }
 
 @media (max-width: 960px) {
@@ -301,12 +263,12 @@ ion-icon {
 @media (max-width: 710px) {
   .swiper-slide {
     grid-template-columns: 100%;
-    grid-template-rows: 55% 40%;
+    grid-template-rows: 35% 60%;
     grid-template-areas:
       "imageContainer"
       "content";
-    gap: 50px;
-    padding: 50px 40px 80px;
+    gap: 30px;
+    padding: 80px 40px;
   }
 
   .content {
@@ -327,31 +289,38 @@ ion-icon {
     grid-area: imageContainer;
   }
 
-  .btn {
-    padding: 0.8rem 1rem;
-    margin: 0 auto;
-  }
-
-  .nav-carousel {
-    bottom: unset;
-    right: unset;
-    position: unset;
-    max-width: max-content;
-    margin: 30px auto;
-  }
-}
-
-@media (max-width: 435px) {
-  .swiper-slide {
-    padding: 30px 30px 110px;
-  }
-
   .item {
     max-width: 110px;
   }
 
-  .button-prev,
-  .button-next {
-    padding: 0.45rem;
+  .btn {
+    padding: 0.8rem 1rem;
+    margin: 0 auto;
+  }
+}
+
+@media (max-width: 580px) {
+  .swiper-slide {
+    grid-template-rows: 40% 55%;
+    padding: 50px 20px 40px;
+  }
+
+  .item {
+    max-width: 80px;
+  }
+}
+
+@media (max-width: 440px) {
+  .swiper-slide {
+    grid-template-rows: 35% 60%;
+    padding: 50px 20px 40px;
+  }
+
+  .item {
+    max-width: 80px;
+  }
+
+  .content p {
+    font-size: 0.9rem;
   }
 }
