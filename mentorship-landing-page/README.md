@@ -12,9 +12,10 @@
 
 - [Codepen](https://codepen.io/ecemgo/pen/GRzpEpB)
 
-### Screenshot
+### Video
 
-https://github.com/ecemgo/mentorship-landing-page/assets/13468728/8fdb1b1b-d753-41b9-a2df-1bd50729c011
+https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/ec81d900-679c-48c8-832d-a28955df361a
+
 
 ### Useful Resources
 
