@@ -80,10 +80,18 @@ This repository includes some great tricks with mini samples.
 
 ### Dashboard
 
-|  #  | Samples                                                                                                      |
-| :-: | :----------------------------------------------------------------------------------------------------------- |
-| 01  | [Fitness App Dashboard](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/fitness-app-dashboard) |
-| 02  | [Responsive Dashboard with Sliders and Music Player](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/music-app-dashboard)     |
+|  #  | Samples                                                                                                                                 |
+| :-: | :-------------------------------------------------------------------------------------------------------------------------------------- |
+| 01  | [Fitness App Dashboard](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/fitness-app-dashboard)                            |
+| 02  | [Responsive Dashboard with Sliders and Music Player](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/music-app-dashboard) |
+
+<br>
+
+### Landing Page
+
+|  #  | Samples                                                                                                            |
+| :-: | :----------------------------------------------------------------------------------------------------------------- |
+| 01  | [Octoberfest Landing Page](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/octoberfest-landing-page) |
 
 <br>
 
