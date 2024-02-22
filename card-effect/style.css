@@ -21,6 +21,9 @@ section {
 
 .content {
   display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
   gap: 30px;
   background: linear-gradient(
     180deg,
@@ -64,7 +67,6 @@ section {
   font-size: 1.1rem;
   font-weight: 700;
   border-radius: 4px;
-  border: none;
   outline: none;
   text-decoration: none;
   color: #784ba0;
@@ -110,9 +112,32 @@ section {
   position: relative;
   box-shadow: 0 15px 50px rgba(0, 0, 0, 0.2);
   border-radius: 10px;
+  user-select: none;
 }
 
-.swiper-slide span {
+.swiper-slide img {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.img-position {
+  object-position: 50% 0%;
+}
+
+.overlay {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(to top, #0f2027, transparent, transparent);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.overlay span {
   position: absolute;
   top: 0;
   right: 0;
@@ -125,12 +150,12 @@ section {
   font-weight: 700;
   font-family: inherit;
   background: rgba(255, 255, 255, 0.095);
-  box-shadow: inset 2.01px -2.01px 20px rgba(214, 214, 214, 0.17),
-    inset -3.01333px 3.01333px 3.01333px rgba(255, 255, 255, 0.39);
+  box-shadow: inset 2px -2px 20px rgba(214, 214, 214, 0.2),
+    inset -3px 3px 3px rgba(255, 255, 255, 0.4);
   backdrop-filter: blur(74px);
 }
 
-.swiper-slide h2 {
+.overlay h2 {
   position: absolute;
   bottom: 0;
   left: 0;
@@ -139,60 +164,6 @@ section {
   font-size: 1.1rem;
   line-height: 1.4;
   margin: 0 0 20px 20px;
-}
-
-.swiper-slide:nth-child(1n) {
-  background: linear-gradient(to top, #0f2027, #203a4300, #2c536400),
-    url("https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/2929f534-3bc3-4cbd-b84c-80df863d5a38")
-      no-repeat 50% 50% / cover;
-}
-
-.swiper-slide:nth-child(2n) {
-  background: linear-gradient(to top, #0f2027, #203a4300, #2c536400),
-    url("https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/b6f5eb64-887c-43b1-aaba-d52a4c59a379")
-      no-repeat 50% 50% / cover;
-}
-
-.swiper-slide:nth-child(3n) {
-  background: linear-gradient(to top, #0f2027, #203a4300, #2c536400),
-    url("https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/e906353b-fde0-4518-9a03-16545c1161bd")
-      no-repeat 50% 0% / cover;
-}
-
-.swiper-slide:nth-child(4n) {
-  background: linear-gradient(to top, #0f2027, #203a4300, #2c536400),
-    url("https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/fc21e481-e28a-41a8-9db3-3b62c1ddc17e")
-      no-repeat 50% 50% / cover;
-}
-
-.swiper-slide:nth-child(5n) {
-  background: linear-gradient(to top, #0f2027, #203a4300, #2c536400),
-    url("https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/6b6ad966-79e1-4d3c-8f92-566d0fee8082")
-      no-repeat 50% 50% / cover;
-}
-
-.swiper-slide:nth-child(6n) {
-  background: linear-gradient(to top, #0f2027, #203a4300, #2c536400),
-    url("https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/2ad44f5d-2215-4416-9c9b-2bae3be51a67")
-      no-repeat 50% 50% / cover;
-}
-
-.swiper-slide:nth-child(7n) {
-  background: linear-gradient(to top, #0f2027, #203a4300, #2c536400),
-    url("https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/aa8fe914-741f-4bf4-ad4a-24f19d1f4178")
-      no-repeat 50% 50% / cover;
-}
-
-.swiper-slide:nth-child(8n) {
-  background: linear-gradient(to top, #0f2027, #203a4300, #2c536400),
-    url("https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/d5f10b4f-7d34-45bd-bb5f-5f1530c2ac1c")
-      no-repeat 50% 0% / cover;
-}
-
-.swiper-slide:nth-child(9n) {
-  background: linear-gradient(to top, #0f2027, #203a4300, #2c536400),
-    url("https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/7cbac263-7c55-4428-908e-31018dc1bce3")
-      no-repeat 50% 50% / cover;
 }
 
 /* ANIMATED BACKGROUND */
