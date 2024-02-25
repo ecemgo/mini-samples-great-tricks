@@ -1,0 +1,298 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
+    <link rel="stylesheet" href="style.css" />
+    <title>macOS Style Portfolio</title>
+  </head>
+  <body>
+    <section>
+      <div class="icon-container">
+        <div class="icon-box about" data-modal="about">
+          <i class="fa-regular fa-address-card"></i>
+        </div>
+        <div class="icon-box projects" data-modal="projects">
+          <i class="fa-solid fa-laptop-code"></i>
+        </div>
+        <div class="icon-box testimonial" data-modal="testimonial">
+          <i class="fa-solid fa-users-rectangle"></i>
+        </div>
+        <div class="icon-box contact" data-modal="contact">
+          <i class="fa-solid fa-envelope"></i>
+        </div>
+      </div>
+    </section>
+
+    <!-- Popup -->
+    <div class="popup" id="about">
+      <div class="popup-container">
+        <div class="popup-header">
+          <div class="button-container">
+            <button class="close-btn circle-btn red">
+              <i class="fa-solid fa-xmark"></i>
+            </button>
+            <button class="close-btn circle-btn yellow">
+              <i class="fa-solid fa-window-minimize"></i>
+            </button>
+            <button class="maximize-btn circle-btn green">
+              <i class="fa-solid fa-up-right-and-down-left-from-center"></i>
+            </button>
+          </div>
+        </div>
+        <div class="popup-body about-container">
+          <div class="img-frame">
+            <img src="images/ruth-thomson.jpg" alt="" />
+          </div>
+          <div class="hero-content">
+            <h1>Ruth Thomson</h1>
+            <p>
+              I'm a front-end developer. I have dedicated myself to creating
+              visually appealing and user-friendly websites. I'm always open to
+              using new skill sets and I believe in the power of collaboration,
+              working closely with designers and back-end developers to deliver
+              cohesive and effective solutions.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="popup" id="projects">
+      <div class="popup-container">
+        <div class="popup-header">
+          <div class="button-container">
+            <button class="close-btn circle-btn red">
+              <i class="fa-solid fa-xmark"></i>
+            </button>
+            <button class="close-btn circle-btn yellow">
+              <i class="fa-solid fa-window-minimize"></i>
+            </button>
+            <button class="maximize-btn circle-btn green">
+              <i class="fa-solid fa-up-right-and-down-left-from-center"></i>
+            </button>
+          </div>
+        </div>
+
+        <div class="popup-body">
+          <div class="skill-list">
+            <h1>Skills</h1>
+            <ul>
+              <li>HTML5</li>
+              <li>CSS3</li>
+              <li>Javascript</li>
+              <li>React</li>
+              <li>Vue JS</li>
+              <li>Bootstrap</li>
+              <li>Tailwind CSS</li>
+            </ul>
+          </div>
+
+          <div class="project-container">
+            <h1>Projects</h1>
+            <div class="all-projects">
+              <div class="project-box">
+                <img src="images/project-1.jpg" alt="" />
+                <div class="overlay">
+                  <h3>Adventure Landing Page</h3>
+                  <button class="more-btn">
+                    <span>Learn More</span>
+                  </button>
+                </div>
+              </div>
+
+              <div class="project-box">
+                <img src="images/project-2.jpg" alt="" />
+                <div class="overlay">
+                  <h3>Landing Page Template</h3>
+                  <button class="more-btn">
+                    <span>Learn More</span>
+                  </button>
+                </div>
+              </div>
+
+              <div class="project-box">
+                <img src="images/project-3.jpg" alt="" />
+                <div class="overlay">
+                  <h3>Travel Landing Page</h3>
+                  <button class="more-btn">
+                    <span>Learn More</span>
+                  </button>
+                </div>
+              </div>
+
+              <div class="project-box">
+                <img src="images/project-4.jpg" alt="" />
+                <div class="overlay">
+                  <h3>Plant Search App</h3>
+                  <button class="more-btn">
+                    <span>Learn More</span>
+                  </button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="popup" id="testimonial">
+      <div class="popup-container">
+        <div class="popup-header">
+          <div class="button-container">
+            <button class="close-btn circle-btn red">
+              <i class="fa-solid fa-xmark"></i>
+            </button>
+            <button class="close-btn circle-btn yellow">
+              <i class="fa-solid fa-window-minimize"></i>
+            </button>
+            <button class="maximize-btn circle-btn green">
+              <i class="fa-solid fa-up-right-and-down-left-from-center"></i>
+            </button>
+          </div>
+        </div>
+        <div class="popup-body testimonial-container">
+          <h1>Testimonials</h1>
+
+          <div class="slider-container">
+            <div class="swiper">
+              <div class="swiper-wrapper">
+                <div class="swiper-slide">
+                  <div class="user-info">
+                    <img src="images/testimonial-1.jpg" alt="" />
+                    <h2>Emily Sullivan</h2>
+                  </div>
+                  <p>
+                    Ruth makes websites look really cool and work smoothly.
+                    She's turning ideas into websites that just make sense!
+                  </p>
+                </div>
+
+                <div class="swiper-slide">
+                  <div class="user-info">
+                    <img src="images/testimonial-2.jpg" alt="" />
+                    <h2>Oliver Reynolds</h2>
+                  </div>
+                  <p>
+                    Ruth is the go-to person for making websites look awesome.
+                    She pays attention to the details that make a big
+                    difference.
+                  </p>
+                </div>
+
+                <div class="swiper-slide">
+                  <div class="user-info">
+                    <img src="images/testimonial-5.jpeg" alt="" />
+                    <h2>Margaret Turner</h2>
+                  </div>
+                  <p>
+                    Ruth's ability to transform ideas into visually appealing
+                    and user-friendly websites showcases her dedication and
+                    talent in the field.
+                  </p>
+                </div>
+
+                <div class="swiper-slide">
+                  <div class="user-info">
+                    <img src="images/testimonial-4.jpg" alt="" />
+                    <h2>Ava Mitchell</h2>
+                  </div>
+                  <p>
+                    If you want a website that looks fantastic, Ruth is the
+                    person to call. She brings creativity and tech skills
+                    together seamlessly.
+                  </p>
+                </div>
+
+                <div class="swiper-slide swiper-no-swiping">
+                  <div class="user-info">
+                    <img src="images/testimonial-3.jpg" alt="" />
+                    <h2>Samuel Morgan</h2>
+                  </div>
+                  <p>
+                    Ruth is a frontend genius! Her work is clean, modern, and
+                    always leaves a positive impression.
+                  </p>
+                </div>
+              </div>
+              <ul class="control" id="custom-control">
+                <li class="prev">
+                  <ion-icon class="arrow" name="caret-back-outline"></ion-icon>
+                </li>
+                <li class="next">
+                  <ion-icon
+                    class="arrow"
+                    name="caret-forward-outline"></ion-icon>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="popup" id="contact">
+      <div class="popup-container">
+        <div class="popup-header">
+          <div class="button-container">
+            <button class="close-btn circle-btn red">
+              <i class="fa-solid fa-xmark"></i>
+            </button>
+            <button class="close-btn circle-btn yellow">
+              <i class="fa-solid fa-window-minimize"></i>
+            </button>
+            <button class="maximize-btn circle-btn green">
+              <i class="fa-solid fa-up-right-and-down-left-from-center"></i>
+            </button>
+          </div>
+        </div>
+        <div class="popup-body contact-container">
+          <h1>Contact</h1>
+          <p>Hi there, you can contact with me via email.</p>
+          <form>
+            <label for="name">Name</label>
+            <input
+              type="text"
+              id="name"
+              name="name"
+              placeholder="Your name.." />
+
+            <label for="email">Email</label>
+            <input
+              type="text"
+              id="email"
+              name="email"
+              placeholder="Your mail.." />
+
+            <label for="subject">Subject</label>
+            <textarea
+              id="subject"
+              name="subject"
+              placeholder="Write something.."
+              style="height: 200px"></textarea>
+
+            <button class="submit-btn more-btn" type="submit">
+              <span>Submit <i class="fa-solid fa-paper-plane"></i></span>
+            </button>
+          </form>
+        </div>
+      </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+    <script
+      type="module"
+      src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+    <script
+      nomodule
+      src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>
