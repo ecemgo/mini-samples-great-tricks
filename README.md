@@ -88,11 +88,12 @@ This repository includes some great tricks with mini samples.
 
 ### Landing Page
 
-|  #  | Samples                                                                                                            |
-| :-: | :----------------------------------------------------------------------------------------------------------------- |
-| 01  | [Octoberfest Landing Page](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/octoberfest-landing-page) |
-| 02  | [Mentorship Landing Page](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/mentorship-landing-page)   |
-| 02  | [Retrobeats Landing Page](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/retrobeats-landing-page)   |
+|  #  | Samples                                                                                                                   |
+| :-: | :------------------------------------------------------------------------------------------------------------------------ |
+| 01  | [Octoberfest Landing Page](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/octoberfest-landing-page)        |
+| 02  | [Mentorship Landing Page](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/mentorship-landing-page)          |
+| 03  | [Retrobeats Landing Page](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/retrobeats-landing-page)          |
+| 04  | [Responsive macOS Style Portfolio](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/macos-style-portfolio)   |
 
 <br>
 
