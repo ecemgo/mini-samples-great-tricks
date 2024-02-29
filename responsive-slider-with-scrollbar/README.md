@@ -10,6 +10,7 @@
 ### Link
 
 - [Codepen](https://codepen.io/ecemgo/pen/eYbwJWd)
+- [YouTube](https://www.youtube.com/watch?v=Rs8fAxOXHGM)
 
 ### Screenshot
 
@@ -24,6 +25,7 @@
 
 ### Contact Me
 
+- Github - [@ecemgo](https://github.com/ecemgo)
 - Twitter - [@ecemgo](https://twitter.com/ecemgo)
 - CodePen - [@ecemgo](https://codepen.io/ecemgo)
 - YouTube - [@ecemgokdogan](https://www.youtube.com/channel/UCktkPv17cw27PaFGcnZa_aQ)
