@@ -16,7 +16,6 @@
 ### Screenshot
 
 <div align="left">
-<h4>Some Backgrounds from the Slider</h4>
 <img src="https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/11b71f4d-6606-41f6-82cf-1297709590fd" title="slider" alt="slider" width="850" height="500"/>
 <img src="https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/f58c1a3d-ecab-41bb-9e7c-c7729b4e8ee9" title="slider" alt="slider" width="850" height="500"/>
 </div>
@@ -27,6 +26,7 @@
 
 ### Contact Me
 
+- Github - [@ecemgo](https://github.com/ecemgo)
 - Twitter - [@ecemgo](https://twitter.com/ecemgo)
 - CodePen - [@ecemgo](https://codepen.io/ecemgo)
 - YouTube - [@ecemgokdogan](https://www.youtube.com/channel/UCktkPv17cw27PaFGcnZa_aQ)
