@@ -17,7 +17,7 @@
 
 ### Useful Resources
 
-- [Youtube](https://www.youtube.com/watch?v=1H-vSHVOxoU&list=LL&index=65&t=1s) - Hash Techie's channel
+- [Youtube](https://www.youtube.com/watch?v=1H-vSHVOxoU&list=LL&index=65&t=1s) - reference
 
 ### Contact Me
 
