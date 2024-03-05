@@ -53,6 +53,36 @@ postActionsControllers.forEach((btn) => {
   });
 });
 
+// postActionsControllers.forEach((btn) => {
+//   btn.addEventListener("click", (event) => {
+//     const popup = btn
+//       .closest(".post-body")
+//       .querySelector(".post-actions-content");
+
+//     btn.classList.toggle("active");
+//     popup.classList.toggle("active");
+
+//     event.stopPropagation();
+//   });
+// });
+
+// document.addEventListener("click", (event) => {
+//   const popups = document.querySelectorAll(".post-actions-content");
+
+//   popups.forEach((popup) => {
+//     if (popup.classList.contains("active") && !popup.contains(event.target)) {
+//       popup.classList.remove("active");
+
+//       const postActionController = popup
+//         .closest(".post-body")
+//         .querySelector(".post-actions-controller");
+//       postActionController.classList.remove("active");
+//     }
+//   });
+// });
+
+/* Like Buttons */
+
 const likeBtns = document.querySelectorAll(".post-like");
 
 // When the like buttons are clicked, they are colored red or this action is undone
