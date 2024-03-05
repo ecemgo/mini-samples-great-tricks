@@ -21,6 +21,7 @@
 
 ### Useful Resources
 
+- [Youtube](https://www.youtube.com/watch?v=6-QoF1qY9Bw&t=5s&ab_channel=Webdev) - reference
 - [Particles JS](https://github.com/VincentGarreau/particles.js) - for animated background
 
 ### Contact Me
