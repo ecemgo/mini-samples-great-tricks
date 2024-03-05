@@ -20,7 +20,7 @@
 
 ### Useful Resources
 
-- [Youtube](https://www.youtube.com/watch?v=rsd4FNGTRBw) - Florin Pop's channel is the reference.
+- [Youtube](https://www.youtube.com/watch?v=rsd4FNGTRBw) - reference
 
 ### Contact Me
 
