@@ -83,7 +83,7 @@ This repository includes some great tricks with mini samples.
 | :-: | :-------------------------------------------------------------------------------------------------------------------------------------- |
 | 01  | [Fitness App Dashboard](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/fitness-app-dashboard)                            |
 | 02  | [Responsive Dashboard with Sliders and Music Player](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/music-app-dashboard) |
-| 02  | [Responsive Dashboard with Doughnut Chart](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/event-dashboard)               |
+| 03  | [Responsive Dashboard with Doughnut Chart](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/event-dashboard)               |
 
 <br>
 
