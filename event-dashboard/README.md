@@ -11,12 +11,10 @@
 
 - [CodePen](https://codepen.io/ecemgo/pen/rNbLodN)
 
-### Screenshot
+### Video
 
-<div align="left">
-<img src="https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/7d26207f-9b04-42be-a768-067c75aa3e74" title="dashboard" alt="dashboard" width="750" height="500"/>
-<img src="https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/da639cd5-23bc-409d-a887-bd54df75340e" title="dashboard" alt="dashboard" width="750" height="500"/>
-</div>
+https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/63cafab8-4b3a-44c5-83c6-68c09b2d207c
+
 
 ### Useful Resources
 
