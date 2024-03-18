@@ -21,6 +21,10 @@
 
 - [Swiper JS](https://swiperjs.com/demos#autoplay) - slider
 
+### Inspiration
+
+- [Dribbble](https://dribbble.com/shots/20496031-Discover-rare-Indian-treasure-NFTs-Landing-Page)
+
 ### Contact Me
 
 - Github - [@ecemgo](https://github.com/ecemgo)
