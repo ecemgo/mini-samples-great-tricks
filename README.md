@@ -72,9 +72,8 @@ This repository includes some great tricks with mini samples.
 
 |  #  | Samples                                                                                                              |
 | :-: | :------------------------------------------------------------------------------------------------------------------- |
-| 01  | [Simple Parallax Scrolling](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/simple-parallax-scrolling) |
-| 02  | [Parallax Effect](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/parallax-effect)                     |
-| 03  | [Halloween Parallax](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/halloween-parallax)               |
+| 01  | [Parallax Effect](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/parallax-effect)                     |
+| 02  | [Halloween Parallax](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/halloween-parallax)               |
 
 <br>
 
