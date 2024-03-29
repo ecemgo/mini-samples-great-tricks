@@ -96,11 +96,3 @@ This repository includes some great tricks with mini samples.
 |  #  | Samples                                                                                                                  |
 | :-: | :----------------------------------------------------------------------------------------------------------------------- |
 | 01  | [Collage Art - Scroll Animation and Lightbox](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/collage-art) |
-
-<br>
-
-### Navbar
-
-|  #  | Samples                                                                                                                                  |
-| :-: | :--------------------------------------------------------------------------------------------------------------------------------------- |
-| 01  | [Responsive Navbar & Background Video](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/responsive-navbar-background-video) |
