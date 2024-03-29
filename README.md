@@ -23,7 +23,6 @@ This repository includes some great tricks with mini samples.
 
 #### Note: These projects can be accessed without charge but they are not meant for unlimited use. Please ask my permission before utilizing my works on any platforms.
 
-
 ### Slider
 
 |  #  | Samples                                                                                                                                |
@@ -44,9 +43,8 @@ This repository includes some great tricks with mini samples.
 
 |  #  | Samples                                                                                                     |
 | :-: | :---------------------------------------------------------------------------------------------------------- |
-| 01  | [Animated Login Form](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/animated-login-form)    |
-| 02  | [Form Validation](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/clientside-form-validation) |
-| 03  | [Login Form with Snow](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/login-form-with-snow)  |
+| 01  | [Form Validation](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/clientside-form-validation) |
+| 02  | [Login Form with Snow](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/login-form-with-snow)  |
 
 <br>
 
