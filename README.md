@@ -64,21 +64,20 @@ This repository includes some great tricks with mini samples.
 
 ### Cards
 
-|  #  | Samples                                                                                                                              |
-| :-: | :----------------------------------------------------------------------------------------------------------------------------------- |
-| 01  | [Card Hover Effect](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/card-hover-effect)                                 |
-| 02  | [Card Hover Effect and Animated Text](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/card-hover-effect-animated-text) |
-| 03  | [Expanding Cards](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/expanding-cards-harry-potter)                        |
-| 04  | [80s Music Facts - Animated Cards](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/80s-music-fact)                     |
+|  #  | Samples                                                                                                          |
+| :-: | :--------------------------------------------------------------------------------------------------------------- |
+| 01  | [Card Hover Effect](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/card-hover-effect)             |
+| 02  | [Expanding Cards](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/expanding-cards-harry-potter)    |
+| 03  | [80s Music Facts - Animated Cards](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/80s-music-fact) |
 
 <br>
 
 ### Parallax Effect
 
-|  #  | Samples                                                                                                              |
-| :-: | :------------------------------------------------------------------------------------------------------------------- |
-| 01  | [Parallax Effect](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/parallax-effect)                     |
-| 02  | [Halloween Parallax](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/halloween-parallax)               |
+|  #  | Samples                                                                                                |
+| :-: | :----------------------------------------------------------------------------------------------------- |
+| 01  | [Parallax Effect](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/parallax-effect)       |
+| 02  | [Halloween Parallax](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/halloween-parallax) |
 
 <br>
 
@@ -94,12 +93,12 @@ This repository includes some great tricks with mini samples.
 
 ### Landing Page
 
-|  #  | Samples                                                                                                                   |
-| :-: | :------------------------------------------------------------------------------------------------------------------------ |
-| 01  | [Octoberfest Landing Page](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/octoberfest-landing-page)        |
-| 02  | [Mentorship Landing Page](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/mentorship-landing-page)          |
-| 03  | [Retrobeats Landing Page](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/retrobeats-landing-page)          |
-| 04  | [Responsive macOS Style Portfolio](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/macos-style-portfolio)   |
+|  #  | Samples                                                                                                                 |
+| :-: | :---------------------------------------------------------------------------------------------------------------------- |
+| 01  | [Octoberfest Landing Page](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/octoberfest-landing-page)      |
+| 02  | [Mentorship Landing Page](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/mentorship-landing-page)        |
+| 03  | [Retrobeats Landing Page](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/retrobeats-landing-page)        |
+| 04  | [Responsive macOS Style Portfolio](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/macos-style-portfolio) |
 
 <br>
 
