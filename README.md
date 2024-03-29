@@ -30,16 +30,15 @@ This repository includes some great tricks with mini samples.
 |  #  | Samples                                                                                                                                |
 | :-: | :------------------------------------------------------------------------------------------------------------------------------------- |
 | 01  | [Testimonial Slider](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/testimonial-slider-v1)                              |
-| 02  | [Responsive Draggable Image Slider](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/draggable-image-slider)              |
-| 03  | [Image Slider](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/image-slider)                                             |
-| 04  | [Card Effect](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/card-effect)                                               |
-| 05  | [Neumorphic Slider](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/neumorphic-slider)                                   |
-| 06  | [Responsive Slider with Scrollbar](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/responsive-slider-with-scrollbar)     |
-| 07  | [Background Slider with The Hero](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/background-slider-with-the-hero)       |
-| 08  | [Slider with Two Different Sidebars](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/slider-with-two-different-sidebars) |
-| 09  | [Animated Slider](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/animated-slider)                                       |
-| 10  | [Cube Effect Slider](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/cube-effect-slider)                                 |
-| 11  | [Music Player with Slider](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/music-player-with-slider)                     |
+| 02  | [Image Slider](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/image-slider)                                             |
+| 03  | [Card Effect](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/card-effect)                                               |
+| 04  | [Neumorphic Slider](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/neumorphic-slider)                                   |
+| 05  | [Responsive Slider with Scrollbar](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/responsive-slider-with-scrollbar)     |
+| 06  | [Background Slider with The Hero](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/background-slider-with-the-hero)       |
+| 07  | [Slider with Two Different Sidebars](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/slider-with-two-different-sidebars) |
+| 08  | [Animated Slider](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/animated-slider)                                       |
+| 09  | [Cube Effect Slider](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/cube-effect-slider)                                 |
+| 10  | [Music Player with Slider](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/music-player-with-slider)                     |
 
 <br>
 
