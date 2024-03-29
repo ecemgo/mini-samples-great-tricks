@@ -18,7 +18,7 @@
 
 ### Useful Resources
 
-- [Youtube](https://www.youtube.com/watch?v=fzgLWi40-2g&t=1s)
+- [Youtube](https://www.youtube.com/watch?v=fzgLWi40-2g&t=1s) - inspiration
 
 ### Contact Me
 
