@@ -36,45 +36,6 @@ function switchTheme() {
   }
 }
 
-function updateTheme(themeMode) {
-  sunIcon.classList.add("hidden");
-  moonIcon.classList.add("hidden");
-  morningImage.classList.add("hidden");
-  nightImage.classList.add("hidden");
-
-  if (themeMode === "dark") {
-    sunIcon.classList.remove("hidden");
-    nightImage.classList.remove("hidden");
-    return document.body.classList.add("darkmode");
-  } else {
-    moonIcon.classList.remove("hidden");
-    morningImage.classList.remove("hidden");
-    document.body.classList.remove("darkmode");
-  }
-}
-
-function initialTheme() {
-  const prefersDarkTheme = window.matchMedia("(prefers-color-scheme: dark)");
-  const storedTheme = localStorage.getItem("theme");
-
-  if (storedTheme === "dark") {
-    // console.log("dark mode");
-    return updateTheme("dark");
-  }
-
-  if (storedTheme === "light") {
-    // console.log("light mode");
-    return updateTheme("light");
-  }
-
-  if (prefersDarkTheme.matches) {
-    // console.log("match dark mode");
-    return updateTheme("dark");
-  }
-}
-
-document.addEventListener("DOMContentLoaded", initialTheme);
-
 //! Share Button Popup
 
 const sharebtns = document.querySelectorAll(".share-btn");
