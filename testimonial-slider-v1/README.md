@@ -16,9 +16,9 @@
 <img src="https://github.com/ecemgo/frontend-mentor-challenges/assets/13468728/1b7be84d-47db-4946-afac-154a431bdab5" title="testimonial slider" alt="testimonial slider" width="750" height="500"/>
 </div>
 
-### Useful Resources
+### Inspiration
 
-- [Youtube](https://www.youtube.com/watch?v=fzgLWi40-2g&t=1s) - inspiration
+- [Youtube](https://www.youtube.com/watch?v=fzgLWi40-2g&t=1s)
 
 ### Contact Me
 
