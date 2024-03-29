@@ -21,6 +21,10 @@ This repository includes some great tricks with mini samples.
 
 <br>
 
+#### Note: These projects can be accessed without charge but they are not meant for unlimited use. Please ask my permission before utilizing my works on any platforms.
+
+<br>
+
 ### Slider
 
 |  #  | Samples                                                                                                                                |
