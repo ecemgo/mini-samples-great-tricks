@@ -1,33 +1,3 @@
-var swiper = new Swiper(".swiper", {
-  preventClicks: true,
-  noSwiping: true,
-  freeMode: false,
-  spaceBetween: 10,
-  navigation: {
-    nextEl: ".next",
-    prevEl: ".prev",
-  },
-  mousewheel: {
-    invert: false,
-    thresholdDelta: 50,
-    sensitivity: 1,
-  },
-  breakpoints: {
-    0: {
-      slidesPerView: 1,
-    },
-    680: {
-      slidesPerView: 2,
-    },
-    1100: {
-      slidesPerView: 3,
-    },
-    1600: {
-      slidesPerView: 4,
-    },
-  },
-});
-
 const iconBoxes = document.querySelectorAll(".icon-box");
 const iconBoxContainers = document.querySelectorAll(".icon-container");
 const closeBtns = document.querySelectorAll(".close-btn");
@@ -60,13 +30,6 @@ document.addEventListener("click", (e) => {
   }
 });
 
-document.addEventListener("click", (e) => {
-  if (e.target.classList.contains("popup")) {
-    e.target.style.display = "none";
-    body.classList.remove("prevent-background-scroll");
-  }
-});
-
 maximizeBtns.forEach((btn) => {
   btn.addEventListener("click", () => {
     let modal = btn.closest(".popup");
@@ -86,4 +49,34 @@ maximizeBtns.forEach((btn) => {
     modal.classList.toggle("maximized");
     body.classList.toggle("prevent-scroll");
   });
+});
+
+var swiper = new Swiper(".swiper", {
+  preventClicks: true,
+  noSwiping: true,
+  freeMode: false,
+  spaceBetween: 10,
+  navigation: {
+    nextEl: ".next",
+    prevEl: ".prev",
+  },
+  mousewheel: {
+    invert: false,
+    thresholdDelta: 50,
+    sensitivity: 1,
+  },
+  breakpoints: {
+    0: {
+      slidesPerView: 1,
+    },
+    680: {
+      slidesPerView: 2,
+    },
+    1100: {
+      slidesPerView: 3,
+    },
+    1600: {
+      slidesPerView: 4,
+    },
+  },
 });
