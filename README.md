@@ -34,8 +34,9 @@ This repository includes some great tricks with mini samples.
 | 05  | [Background Slider with The Hero](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/background-slider-with-the-hero)       |
 | 06  | [Slider with Two Different Sidebars](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/slider-with-two-different-sidebars) |
 | 07  | [Animated Slider](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/animated-slider)                                       |
-| 08  | [Cube Effect Slider](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/cube-effect-slider)                                 |
-| 09  | [Music Player with Slider](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/music-player-with-slider)                     |
+| 08  | [Animated Slider II](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/animated-slider-2)                                  |
+| 09  | [Cube Effect Slider](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/cube-effect-slider)                                 |
+| 10  | [Music Player with Slider](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/music-player-with-slider)                     |
 
 <br>
 
