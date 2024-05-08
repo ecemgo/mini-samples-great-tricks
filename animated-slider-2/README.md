@@ -17,7 +17,7 @@
 ### Screenshot
 
 <div align="left">
-<img src="https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/02ad25bd-46b1-485f-b40c-eecf0206aa79" title="animated slider" alt="animated slider" width="800" height="500"/>
+<img src="https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/02ad25bd-46b1-485f-b40c-eecf0206aa79" title="animated slider" alt="animated slider" width="1000" height="500"/>
 </div>
 
 ### Useful Resources
