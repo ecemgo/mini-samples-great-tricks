@@ -46,6 +46,7 @@ This repository includes some great tricks with mini samples.
 | :-: | :--------------------------------------------------------------------------------------------------------------- |
 | 01  | [Card Hover Effect](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/card-hover-effect)             |
 | 02  | [80s Music Facts - Animated Cards](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/80s-music-fact) |
+| 03  | [Expanding Cards](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/expanding-cards)                 |
 
 <br>
 
