@@ -13,7 +13,7 @@
 ### Screenshot
 
 <div align="left">
-<img src="screenshot.png" title="stacked cards" alt="stacked cards" width="600" height="400"/>
+<img src="screenshot.png" title="stacked cards" alt="stacked cards" width="900" height="500"/>
 </div>
 
 ### Contact Me
