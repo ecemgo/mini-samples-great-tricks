@@ -13,7 +13,7 @@
 ### Screenshot
 
 <div align="left">
-<img src="screenshot.png" title="guess the movie" alt="guess the movie" width="750" height="500"/>
+<img src="screenshot.png" title="guess the movie" alt="guess the movie" width="650" height="500"/>
 </div>
 
 ### Contact Me
