@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Guess The Movie</title>
+  </head>
+  <body>
+    <div id="particles-js" class="particles"></div>
+
+    <div class="game-container">
+      <h1>Guess the Movie</h1>
+      <div id="score">Score: 0</div>
+      <img id="movieImage" src="" alt="Movie Poster" />
+      <div class="input-box">
+        <input type="text" id="guessInput" placeholder="Enter movie name" />
+        <button onclick="checkGuess()" class="submit-btn btn" role="button">
+          Submit
+        </button>
+      </div>
+    </div>
+
+    <div id="gameOverModal" class="modal">
+      <div class="modal-content"></div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>
