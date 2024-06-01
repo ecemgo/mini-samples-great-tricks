@@ -42,12 +42,12 @@ This repository includes some great tricks with mini samples.
 
 ### Cards
 
-|  #  | Samples                                                                                                          |
-| :-: | :--------------------------------------------------------------------------------------------------------------- |
-| 01  | [Card Hover Effect](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/card-hover-effect)             |
-| 02  | [80s Music Facts - Animated Cards](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/80s-music-fact) |
-| 03  | [Expanding Cards](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/expanding-cards)                 |
-| 04  | [Stacked Cards with Autoplay](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/stacked-cards-with-autoplay)  |
+|  #  | Samples                                                                                                                  |
+| :-: | :----------------------------------------------------------------------------------------------------------------------- |
+| 01  | [Card Hover Effect](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/card-hover-effect)                     |
+| 02  | [80s Music Facts - Animated Cards](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/80s-music-fact)         |
+| 03  | [Expanding Cards](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/expanding-cards)                         |
+| 04  | [Stacked Cards with Autoplay](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/stacked-cards-with-autoplay) |
 
 <br>
 
@@ -78,6 +78,14 @@ This repository includes some great tricks with mini samples.
 | 02  | [Mentorship Landing Page](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/mentorship-landing-page)        |
 | 03  | [Retrobeats Landing Page](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/retrobeats-landing-page)        |
 | 04  | [Responsive macOS Style Portfolio](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/macos-style-portfolio) |
+
+<br>
+
+### Game
+
+|  #  | Samples                                                                                          |
+| :-: | :----------------------------------------------------------------------------------------------- |
+| 01  | [Guess the Movie](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/guess-the-movie) |
 
 <br>
 
