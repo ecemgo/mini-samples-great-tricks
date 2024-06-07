@@ -17,6 +17,8 @@ function moveCard() {
   }
 }
 
+let autoplayInterval = setInterval(moveCard, 4000);
+
 stack.addEventListener("click", function (e) {
   const card = e.target.closest(".card");
   if (card && card === stack.lastElementChild) {
@@ -30,13 +32,9 @@ stack.addEventListener("click", function (e) {
   }
 });
 
-let autoplayInterval = setInterval(moveCard, 4000);
-
 function resetAutoplay() {
   clearInterval(autoplayInterval);
   autoplayInterval = setInterval(moveCard, 4000);
 }
-
-// Plus, with the addEventListener() method, you can click on the stacked cards and see the next card.
 
 // Inspired by Hirok Banik https://codepen.io/hirokbanik/pen/XWWNQza?editors=0010
