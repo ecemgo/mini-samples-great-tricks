@@ -11,8 +11,9 @@
 
 - [Codepen](https://codepen.io/ecemgo/pen/abrYOGG)
 
-### Screenshot
+### Video
 
+https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/c378d8db-6a89-4892-8f81-d1538e17b84e
 
 
 ### Useful Resources
