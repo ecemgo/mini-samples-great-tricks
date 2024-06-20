@@ -37,6 +37,7 @@ This repository includes some great tricks with mini samples.
 | 08  | [Animated Slider II](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/animated-slider-2)                                  |
 | 09  | [Cube Effect Slider](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/cube-effect-slider)                                 |
 | 10  | [Music Player with Slider](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/music-player-with-slider)                     |
+| 11  | [Vertical Slider with Clip-Path Animation](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/vertical-slider-with-clip-path-animation)                     |
 
 <br>
 
