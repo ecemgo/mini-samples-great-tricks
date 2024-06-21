@@ -11,7 +11,7 @@ This repository includes some great tricks with mini samples.
 ![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white)&nbsp;
 ![ScrollReveal](https://img.shields.io/badge/scrollreveal-8B49B8?style=for-the-badge&logo=scrollreveal&logoColor=white)&nbsp;
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)&nbsp;
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
+![Figma](https://img.shields.io/badge/figma-6600CC.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 ![Particles JS](https://img.shields.io/badge/particles%20js-10135E?style=for-the-badge&logo=particlejs&logoColor=white)&nbsp;
 ![tsParticles](https://img.shields.io/badge/tsParticles-262852?style=for-the-badge&logo=particlejs&logoColor=white)&nbsp;
 
