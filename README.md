@@ -8,16 +8,12 @@ This repository includes some great tricks with mini samples.
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)&nbsp;
 ![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![Swiper](https://img.shields.io/badge/swiper%20js-4287F5?style=for-the-badge&logo=swiper&logoColor=white)&nbsp;
-![Green Sock](https://img.shields.io/badge/greensock-88CE02?style=for-the-badge&logo=greensock&logoColor=white)&nbsp;
+![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white)&nbsp;
 ![ScrollReveal](https://img.shields.io/badge/scrollreveal-8B49B8?style=for-the-badge&logo=scrollreveal&logoColor=white)&nbsp;
+![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)&nbsp;
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 ![Particles JS](https://img.shields.io/badge/particles%20js-10135E?style=for-the-badge&logo=particlejs&logoColor=white)&nbsp;
 ![tsParticles](https://img.shields.io/badge/tsParticles-262852?style=for-the-badge&logo=particlejs&logoColor=white)&nbsp;
-![Chart.js](https://img.shields.io/badge/chart%20js-Cf7C8F?style=for-the-badge&logo=chartjs&logoColor=white)&nbsp;
-![Figma](https://img.shields.io/badge/figma-6E12C4.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
-
-<!--
-![Sass](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)&nbsp;
--->
 
 <br>
 
