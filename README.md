@@ -17,7 +17,7 @@ This repository includes some great tricks with mini samples.
 
 <br>
 
-#### Note: These projects can be accessible but it is not meant for unlimited use. Please, do not use them in profit-making platforms and projects without permission.
+#### Note: This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License. You may use, share, and adapt this work for non-commercial purposes, provided you give appropriate credit. For more details, visit [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).  
 
 ### Slider
 
