@@ -1,5 +1,9 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap");
 
+:root {
+  --x: 800px;
+}
+
 * {
   box-sizing: border-box;
   margin: 0;
@@ -34,7 +38,7 @@ body {
 }
 
 main {
-  width: 800px;
+  width: var(--x);
 }
 
 main h1 {
@@ -46,13 +50,13 @@ main h1 {
 
 .slide-row {
   display: flex;
-  width: 3200px;
+  width: calc(4 * var(--x));
   transition: 0.5s;
 }
 
 .slide-col {
   position: relative;
-  width: 800px;
+  width: var(--x);
   height: 400px;
 }
 
@@ -130,16 +134,11 @@ main h1 {
 }
 
 @media (max-width: 850px) {
-  main {
-    width: 500px;
-  }
-
-  .slide-row {
-    width: 2000px;
+  :root {
+    --x: 500px;
   }
 
   .slide-col {
-    width: 500px;
     height: 250px;
   }
 
@@ -164,12 +163,8 @@ main h1 {
 }
 
 @media (max-width: 550px) {
-  main {
-    width: 300px;
-  }
-
-  .slide-row {
-    width: 1200px;
+  :root {
+    --x: 300px;
   }
 
   .slide-col {
