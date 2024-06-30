@@ -15,7 +15,7 @@ This repository includes some great tricks with mini samples.
 ![Particles JS](https://img.shields.io/badge/particles%20js-10135E?style=for-the-badge&logo=particlejs&logoColor=white)&nbsp;
 ![tsParticles](https://img.shields.io/badge/tsParticles-262852?style=for-the-badge&logo=particlejs&logoColor=white)&nbsp;
 
-##### Note: This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License. You may use, share, and adapt this work for non-commercial purposes, provided you give appropriate credit. For more details, visit [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).  
+##### Note: These projects are licensed under the Creative Commons Attribution-NonCommercial 4.0 International License. You may use, share, and adapt these works for non-commercial purposes, provided you give appropriate credit. For more details, visit [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).  
 
 ### Slider
 
