@@ -12,7 +12,6 @@
 - [Codepen](https://codepen.io/ecemgo/pen/oNJJbYg?editors=1010)
 - [Youtube](https://www.youtube.com/watch?v=AAflLdPlUlQ)
 
-
 ### Screenshot
 
 <div align="left">
@@ -26,6 +25,10 @@
 ### Inspiration
 
 - [Dribbble](https://dribbble.com/shots/20496031-Discover-rare-Indian-treasure-NFTs-Landing-Page)
+
+### License
+
+##### This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License. You may use, share, and adapt this work for non-commercial purposes, provided you give appropriate credit. For more details, visit [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
 
 ### Contact Me
 

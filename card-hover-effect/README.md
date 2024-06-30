@@ -11,7 +11,6 @@
 
 - [CodePen](https://codepen.io/ecemgo/pen/PoywNzQ)
 
-
 ### Screenshot
 
 <div align="left">
@@ -23,6 +22,10 @@
 
 - [Youtube](https://www.youtube.com/watch?v=6-QoF1qY9Bw&t=5s&ab_channel=Webdev) - reference
 - [Particles JS](https://github.com/VincentGarreau/particles.js) - for animated background
+
+### License
+
+##### This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License. You may use, share, and adapt this work for non-commercial purposes, provided you give appropriate credit. For more details, visit [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
 
 ### Contact Me
 

@@ -21,6 +21,10 @@
 - [50 Projects In 50 Days](https://www.udemy.com/course/50-projects-50-days/) - It is a tutorial on Udemy about HTML, CSS, and Javascript.
 - [Fantasy Topics](https://fantasytopics.com/harry-potter-characters-list/) - It is used for the Harry Potter characters list.
 
+### License
+
+##### This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License. You may use, share, and adapt this work for non-commercial purposes, provided you give appropriate credit. For more details, visit [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
+
 ### Contact Me
 
 - Github - [@ecemgo](https://github.com/ecemgo)

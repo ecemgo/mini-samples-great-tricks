@@ -17,10 +17,13 @@
 <img src="https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/a690a4e5-4080-4771-8813-f4ec1d59bece" title="clientside form" alt="clientside form" width="800" height="500"/>
 </div>
 
-
 ### Useful Resources
 
 - [Youtube](https://www.youtube.com/watch?v=rsd4FNGTRBw) - reference
+
+### License
+
+##### This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License. You may use, share, and adapt this work for non-commercial purposes, provided you give appropriate credit. For more details, visit [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
 
 ### Contact Me
 

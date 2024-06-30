@@ -16,12 +16,15 @@
 
 https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/ec81d900-679c-48c8-832d-a28955df361a
 
-
 ### Useful Resources
 
 - [ScrollReveal](https://scrollrevealjs.org/)
 - [Tiny Slider](https://ganlanyuan.github.io/tiny-slider/demo/)
 - [Tilt JS](https://micku7zu.github.io/vanilla-tilt.js/)
+
+### License
+
+##### This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License. You may use, share, and adapt this work for non-commercial purposes, provided you give appropriate credit. For more details, visit [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
 
 ### Contact Me
 

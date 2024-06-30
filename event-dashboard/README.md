@@ -16,10 +16,13 @@
 
 https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/63cafab8-4b3a-44c5-83c6-68c09b2d207c
 
-
 ### Useful Resources
 
 - [Chart.js](https://www.chartjs.org/) - for doughnut chart
+
+### License
+
+##### This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License. You may use, share, and adapt this work for non-commercial purposes, provided you give appropriate credit. For more details, visit [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
 
 ### Contact Me
 

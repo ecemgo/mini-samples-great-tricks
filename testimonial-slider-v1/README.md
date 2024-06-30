@@ -20,6 +20,10 @@
 
 - [Youtube](https://www.youtube.com/watch?v=fzgLWi40-2g&t=1s)
 
+### License
+
+##### This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License. You may use, share, and adapt this work for non-commercial purposes, provided you give appropriate credit. For more details, visit [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
+
 ### Contact Me
 
 - Github - [@ecemgo](https://github.com/ecemgo)

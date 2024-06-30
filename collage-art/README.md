@@ -19,6 +19,10 @@ https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/8da92c8c-e1d
 
 - [ScrollReveal JS](https://scrollrevealjs.org/) - scroll animation
 
+### License
+
+##### This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License. You may use, share, and adapt this work for non-commercial purposes, provided you give appropriate credit. For more details, visit [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
+
 ### Contact Me
 
 - Github - [@ecemgo](https://github.com/ecemgo)

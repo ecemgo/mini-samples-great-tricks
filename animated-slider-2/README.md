@@ -11,8 +11,7 @@
 ### Link
 
 - [Codepen](https://codepen.io/ecemgo/pen/jOoNePb)
-- [YouTube](https://www.youtube.com/watch?v=dECM9iT2_9w) 
-
+- [YouTube](https://www.youtube.com/watch?v=dECM9iT2_9w)
 
 ### Screenshot
 
@@ -25,6 +24,10 @@
 - [Swiper JS](https://swiperjs.com/demos#default) - slider
 - [Particle JS](https://github.com/VincentGarreau/particles.js) - particle.js (github)
 - [Particle JS Demo](https://codepen.io/VincentGarreau/pen/bGxvQd) - demo (codepen)
+
+### License
+
+##### This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License. You may use, share, and adapt this work for non-commercial purposes, provided you give appropriate credit. For more details, visit [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
 
 ### Contact Me
 

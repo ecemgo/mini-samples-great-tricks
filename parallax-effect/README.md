@@ -21,6 +21,10 @@ https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/58129c6f-69c
 - [Freepik](https://www.freepik.com/free-vector/summer-landscape-background-zoom_9263416.htm#&position=1&from_view=user) - illustration
 - [Greensock](https://greensock.com/docs/v3/Installation?checked=core,scrollTrigger) - for animation
 
+### License
+
+##### This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License. You may use, share, and adapt this work for non-commercial purposes, provided you give appropriate credit. For more details, visit [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
+
 ### Contact Me
 
 - Github - [@ecemgo](https://github.com/ecemgo)

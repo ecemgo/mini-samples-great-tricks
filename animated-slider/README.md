@@ -11,8 +11,7 @@
 ### Link
 
 - [Codepen](https://codepen.io/ecemgo/pen/KKJLjWd)
-- [YouTube](https://youtu.be/h3CJVEHapuY) 
-
+- [YouTube](https://youtu.be/h3CJVEHapuY)
 
 ### Intro
 
@@ -23,6 +22,10 @@ https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/cb66a85e-eca
 - [Swiper JS](https://swiperjs.com/demos#default) - slider
 - [Particle JS](https://github.com/VincentGarreau/particles.js) - particle.js (github)
 - [Particle JS Demo](https://codepen.io/VincentGarreau/pen/bGxvQd) - demo (codepen)
+
+### License
+
+##### This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License. You may use, share, and adapt this work for non-commercial purposes, provided you give appropriate credit. For more details, visit [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
 
 ### Contact Me
 

@@ -15,10 +15,13 @@
 
 https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/c378d8db-6a89-4892-8f81-d1538e17b84e
 
-
 ### Useful Resources
 
 - [Swiper JS](https://swiperjs.com/demos#default) - slider
+
+### License
+
+##### This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License. You may use, share, and adapt this work for non-commercial purposes, provided you give appropriate credit. For more details, visit [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
 
 ### Contact Me
 
