@@ -1,6 +1,6 @@
 ## <img src="https://user-images.githubusercontent.com/13468728/233831804-0f5c7ee5-d654-4c13-9c77-a5bd6dc4fe74.jpg" title="great tricks" alt="great tricks" width="50" height="50"/> Mini Samples Great Tricks
 
-This repository includes mini samples using CSS animations and JS libraries such as sliders, cards, dashboards, landing pages, and login forms.
+This repository includes mini samples using CSS animations or JS libraries to create sliders, cards, dashboards, landing pages, and login forms.
 
 #### Tools used in samples:
 
