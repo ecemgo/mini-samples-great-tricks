@@ -14,11 +14,6 @@ const swiper = new Swiper(".swiper-container", {
     sensitivity: 1,
   },
   on: {
-    init: function () {
-      let activeSlide = this.slides[this.activeIndex];
-      let background = activeSlide.querySelector(".background");
-      background.classList.add("animation");
-    },
     slideChange: function () {
       this.slides.forEach((slide) => {
         let background = slide.querySelector(".background");
