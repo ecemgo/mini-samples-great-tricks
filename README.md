@@ -98,3 +98,14 @@ This repository includes mini samples using CSS animations or JS libraries to cr
 |  #  | Samples                                                                                                                  |
 | :-: | :----------------------------------------------------------------------------------------------------------------------- |
 | 01  | [Collage Art - Scroll Animation and Lightbox](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/collage-art) |
+
+<br>
+
+### Author
+
+- Github - [@ecemgo](https://github.com/ecemgo)
+- CodePen - [@ecemgo](https://codepen.io/ecemgo)
+- YouTube - [@ecemgokdogan](https://www.youtube.com/channel/UCktkPv17cw27PaFGcnZa_aQ)
+- Twitter - [@ecemgo](https://twitter.com/ecemgo)
+
+
