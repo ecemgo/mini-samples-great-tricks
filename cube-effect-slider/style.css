@@ -50,7 +50,7 @@ section {
 }
 
 .content p {
-  font-size: clamp(1rem, 4vw, 1.1rem);
+  font-size: clamp(0.9rem, 3vw, 1.25rem);
   font-weight: 300;
   line-height: 1.5;
   margin-bottom: 30px;
