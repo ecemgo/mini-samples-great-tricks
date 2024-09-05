@@ -258,7 +258,7 @@ main {
   -o-user-select: none;
 }
 
-.artist img {
+.artist-img-container img {
   object-fit: cover;
   border-radius: 50%;
   border: 2px solid rgba(169, 150, 253, 0.5);
@@ -268,9 +268,10 @@ main {
   box-shadow: rgba(221, 221, 221, 0.3) 0px 6px 18px -3px,
     rgba(221, 221, 221, 0.2) 0px -3px 0px inset;
   transition: all 0.2s;
+  pointer-events: none;
 }
 
-.artist img:hover {
+.artist-img-container:hover img {
   border: 4px solid rgba(169, 150, 253, 0.6);
 }
 
@@ -319,9 +320,10 @@ main {
   height: 100%;
   object-fit: cover;
   transition: transform 0.8s;
+  pointer-events: none;
 }
 
-.album-frame img:hover {
+.album-frame:hover img {
   transform: rotate(3deg) scale(1.2);
 }
 
