@@ -83,6 +83,7 @@ main {
   opacity: 0;
   transform: translateY(40px);
   transition: all 0.5s;
+  user-select: none;
 }
 
 .card:hover .info {
