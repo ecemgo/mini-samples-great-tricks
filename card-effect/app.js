@@ -1,4 +1,4 @@
-var swiper = new Swiper(".mySwiper", {
+var swiper = new Swiper(".swiper", {
   effect: "cards",
   grabCursor: true,
   initialSlide: 2,
