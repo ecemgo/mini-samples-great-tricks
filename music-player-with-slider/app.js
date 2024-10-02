@@ -2,8 +2,8 @@ const progress = document.getElementById("progress");
 const song = document.getElementById("song");
 const controlIcon = document.getElementById("controlIcon");
 const playPauseButton = document.querySelector(".play-pause-btn");
-const forwardButton = document.querySelector(".controls button.forward");
-const backwardButton = document.querySelector(".controls button.backward");
+const nextButton = document.querySelector(".controls button.forward");
+const prevButton = document.querySelector(".controls button.backward");
 const songName = document.querySelector(".music-player h1");
 const artistName = document.querySelector(".music-player p");
 
@@ -46,10 +46,9 @@ const songs = [
   },
 ];
 
-//! Updating song info
-
 let currentSongIndex = 3;
 
+//! Updating song info
 function updateSongInfo() {
   songName.textContent = songs[currentSongIndex].title;
   artistName.textContent = songs[currentSongIndex].name;
@@ -61,7 +60,6 @@ function updateSongInfo() {
 }
 
 //! Showing the current time and updating the progress bar more frequently
-
 song.addEventListener("timeupdate", function () {
   if (!song.paused) {
     progress.value = song.currentTime;
@@ -69,14 +67,20 @@ song.addEventListener("timeupdate", function () {
 });
 
 //! Duration and current time of the song for the progress bar
-
 song.addEventListener("loadedmetadata", function () {
   progress.max = song.duration;
   progress.value = song.currentTime;
 });
 
-//! Function to pause the music and updating icons
+//! When the song is "ended", play the next song and update the slider
+song.addEventListener("ended", function () {
+  currentSongIndex = (swiper.activeIndex + 1) % songs.length;
+  updateSongInfo();
+  swiper.slideTo(currentSongIndex);
+  playSong();
+});
 
+//! Function to pause the music and updating icons
 function pauseSong() {
   song.pause();
   controlIcon.classList.remove("fa-pause");
@@ -84,7 +88,6 @@ function pauseSong() {
 }
 
 //! Function to play the music and updating icons
-
 function playSong() {
   song.play();
   controlIcon.classList.add("fa-pause");
@@ -92,7 +95,6 @@ function playSong() {
 }
 
 //! Function to play or pause the music
-
 function playPause() {
   if (song.paused) {
     playSong();
@@ -104,28 +106,24 @@ function playPause() {
 playPauseButton.addEventListener("click", playPause);
 
 //! Jumping to the desired time of the song by clicking the progress bar
-
 progress.addEventListener("input", function () {
   song.currentTime = progress.value;
 });
 
 //! When the song is still paused, if you click the progress bar, the song keeps playing
-
 progress.addEventListener("change", function () {
   playSong();
 });
 
 //! Next song
-
-forwardButton.addEventListener("click", function () {
+nextButton.addEventListener("click", function () {
   currentSongIndex = (currentSongIndex + 1) % songs.length;
   updateSongInfo();
   playPause();
 });
 
 //! Previous song
-
-backwardButton.addEventListener("click", function () {
+prevButton.addEventListener("click", function () {
   currentSongIndex = (currentSongIndex - 1 + songs.length) % songs.length;
   updateSongInfo();
   playPause();
@@ -138,7 +136,7 @@ var swiper = new Swiper(".swiper", {
   centeredSlides: true,
   initialSlide: 3,
   slidesPerView: "auto",
-  allowTouchMove: false,
+  grabCursor: true,
   spaceBetween: 40,
   coverflowEffect: {
     rotate: 25,
@@ -151,6 +149,13 @@ var swiper = new Swiper(".swiper", {
     nextEl: ".forward",
     prevEl: ".backward",
   },
+});
+
+//! Listen for slide changes and update the song index
+swiper.on("slideChange", function () {
+  currentSongIndex = swiper.activeIndex;
+  updateSongInfo();
+  playPause();
 });
 
 // Inspiration: https://dribbble.com/shots/5455156-Car-HMI-assistant-Album-switching
