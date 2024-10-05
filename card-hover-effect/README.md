@@ -7,10 +7,6 @@
 ![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![Particles JS](https://img.shields.io/badge/particles%20js-10135E?style=for-the-badge&logo=particlejs&logoColor=white)&nbsp;
 
-### Link
-
-- [CodePen](https://codepen.io/ecemgo/pen/PoywNzQ)
-
 ### Screenshot
 
 <div align="left">
