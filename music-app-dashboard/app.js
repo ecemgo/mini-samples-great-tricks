@@ -3,12 +3,15 @@
 const navItems = document.querySelectorAll(".nav-item");
 
 navItems.forEach((navItem) => {
-  navItem.addEventListener("click", (event) => {
-    event.preventDefault(); 
-    navItems.forEach((item) => {
-      item.className = "nav-item";
-    });
-    navItem.className = "nav-item active";
+  navItem.addEventListener("click", (e) => {
+    e.preventDefault(); 
+
+    const activeItem = document.querySelector(".nav-item.active");
+    if (activeItem) {
+      activeItem.classList.remove("active");
+    }
+    
+    navItem.classList.add("active");
   });
 });
 
