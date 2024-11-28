@@ -22,7 +22,7 @@ This repository includes mini samples using CSS animations or JS libraries to cr
 |  #  | Samples                                                                                                                                            |
 | :-: | :------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 01  | [Responsive Slider with Vanilla Javascript](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/testimonial-slider-v1)                   |
-| 02  | [Card Effect](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/card-effect)                                                           |
+| 02  | [Card Effect Slider](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/card-effect)                                                    |
 | 03  | [Neumorphic Slider](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/neumorphic-slider)                                               |
 | 04  | [Responsive Slider with Scrollbar](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/responsive-slider-with-scrollbar)                 |
 | 05  | [Background Slider with The Hero](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/background-slider-with-the-hero)                   |
