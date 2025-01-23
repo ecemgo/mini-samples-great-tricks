@@ -31,6 +31,7 @@ This repository includes mini samples using CSS animations or JS libraries to cr
 | 08  | [Cube Effect Slider](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/cube-effect-slider)                                             |
 | 09  | [Music Player with Slider](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/music-player-with-slider)                                 |
 | 10  | [Vertical Slider with Clip-Path Animation](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/vertical-slider-with-clip-path-animation) |
+| 11  | [Swiper Card Slider with Music Player](https://github.com/ecemgo/mini-samples-great-tricks/tree/main/card-slider-music-player)                     |
 
 <br>
 
