@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Swiper Card Slider with Music Player</title>
+  </head>
+  <body>
+    <main>
+      <div class="content">
+        <div class="slider-playlist">
+          <div class="swiper">
+            <div class="swiper-wrapper">
+              <div class="swiper-slide">
+                <img src="images/img-1.jpg" />
+                <h1>Syn Cole</h1>
+              </div>
+              <div class="swiper-slide">
+                <img src="images/img-2.jpg" />
+                <h1>Clarx & Harddope</h1>
+              </div>
+              <div class="swiper-slide">
+                <img src="images/img-3.jpg" />
+                <h1>Neffex</h1>
+              </div>
+              <div class="swiper-slide">
+                <img src="images/img-4.jpg" />
+                <h1>Patrick Patrikios</h1>
+              </div>
+              <div class="swiper-slide">
+                <img src="images/img-5.jpg" />
+                <h1>Besomorph & Coopex</h1>
+              </div>
+            </div>
+          </div>
+
+          <div class="playlist">
+            <div class="playlist-item">
+              <img src="images/img-1.jpg" alt="" />
+              <div class="song">
+                <p>Syn Cole</p>
+                <p>Feel Good</p>
+              </div>
+              <p>3:01</p>
+              <i class="fa-regular fa-heart like-btn"></i>
+            </div>
+            <div class="playlist-item">
+              <img src="images/img-2.jpg" alt="" />
+              <div class="song">
+                <p>Clarx & Harddope</p>
+                <p>Castle</p>
+              </div>
+              <p>2:38</p>
+              <i class="fa-regular fa-heart like-btn"></i>
+            </div>
+            <div class="playlist-item">
+              <img src="images/img-3.jpg" alt="" />
+              <div class="song">
+                <p>Neffex</p>
+                <p>Play Dead</p>
+              </div>
+              <p>3:31</p>
+              <i class="fa-regular fa-heart like-btn"></i>
+            </div>
+            <div class="playlist-item">
+              <img src="images/img-4.jpg" alt="" />
+              <div class="song">
+                <p>Patrick Patrikios</p>
+                <p>Know Myself</p>
+              </div>
+              <p>3:23</p>
+              <i class="fa-solid fa-heart like-btn"></i>
+            </div>
+            <div class="playlist-item">
+              <img src="images/img-5.jpg" alt="" />
+              <div class="song">
+                <p>Besomorph & Coopex</p>
+                <p>Redemption</p>
+              </div>
+              <p>2:37</p>
+              <i class="fa-regular fa-heart like-btn"></i>
+            </div>
+          </div>
+        </div>
+
+        <div class="player">
+          <audio
+            id="audioPlayer"
+            src="song-list/AfricanFella-CumbiaDeli.mp3"
+            type="audio/mpeg"></audio>
+
+          <div class="controls">
+            <i class="fa-solid fa-shuffle" id="shuffleBtn"></i>
+            <i class="fa-solid fa-backward" id="prevBtn"></i>
+            <button id="playPauseBtn">
+              <i class="fa-solid fa-play" id="playPauseIcon"></i>
+            </button>
+            <i class="fa-solid fa-forward" id="nextBtn"></i>
+            <div class="volume">
+              <i class="fa-solid fa-volume-high"></i>
+              <input
+                type="range"
+                id="volume-range"
+                min="0"
+                max="100"
+                value="100" />
+            </div>
+          </div>
+
+          <input type="range" value="0" id="progress-bar" />
+        </div>
+      </div>
+    </main>
+
+    <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>
