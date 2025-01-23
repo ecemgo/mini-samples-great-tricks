@@ -11,6 +11,10 @@
 
 - [Codepen](https://codepen.io/ecemgo/pen/PwYyNxa)
 
+### Video
+
+https://github.com/user-attachments/assets/55aa6f14-b5fd-420f-8905-24273643ec15
+
 ### Useful Resources
 
 - [Swiper JS](https://swiperjs.com/demos#default) - slider
