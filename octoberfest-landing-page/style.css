@@ -249,7 +249,7 @@ a:active {
 /* ------ */
 /* MODAL */
 
-body.prevent-background-scroll {
+body.prevent-scroll {
   min-height: 100dvh;
   overflow-y: hidden;
 }
