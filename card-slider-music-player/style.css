@@ -386,6 +386,10 @@ main:hover::before {
     overflow-x: hidden;
   }
 
+  .playlist {
+    margin-bottom: 50px;
+  }
+
   .slider-playlist {
     grid-template-columns: 100%;
   }
